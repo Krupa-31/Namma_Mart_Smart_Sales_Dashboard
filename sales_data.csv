@@ -1,0 +1,2032 @@
+date,product,category,region,units,unit_price
+2025-11-06,Headphones,Electronics,South,5,2500
+2025-11-06,T-Shirt,Clothing,North,3,600
+2025-11-06,Rice (5kg),Grocery,North,3,450
+2025-11-06,Headphones,Electronics,North,4,2500
+2025-11-06,Rice (5kg),Grocery,West,7,450
+2025-11-06,T-Shirt,Clothing,East,7,600
+2025-11-06,Desk Lamp,Home,South,3,1200
+2025-11-06,Olive Oil,Grocery,East,5,700
+2025-11-07,T-Shirt,Clothing,North,5,600
+2025-11-07,Headphones,Electronics,East,3,2500
+2025-11-07,Cushion,Home,East,7,400
+2025-11-07,Desk Lamp,Home,North,6,1200
+2025-11-08,Headphones,Electronics,East,5,2500
+2025-11-08,Rice (5kg),Grocery,North,3,450
+2025-11-08,Olive Oil,Grocery,North,5,700
+2025-11-08,Cushion,Home,West,3,400
+2025-11-08,T-Shirt,Clothing,South,5,600
+2025-11-08,Jeans,Clothing,East,4,1800
+2025-11-09,Cushion,Home,South,3,400
+2025-11-09,Rice (5kg),Grocery,South,4,450
+2025-11-09,Rice (5kg),Grocery,South,5,450
+2025-11-09,Olive Oil,Grocery,South,3,700
+2025-11-09,Desk Lamp,Home,West,5,1200
+2025-11-09,T-Shirt,Clothing,East,4,600
+2025-11-09,T-Shirt,Clothing,West,6,600
+2025-11-09,Cushion,Home,South,6,400
+2025-11-10,T-Shirt,Clothing,East,7,600
+2025-11-10,Desk Lamp,Home,West,6,1200
+2025-11-10,Jeans,Clothing,West,4,1800
+2025-11-10,Headphones,Electronics,North,3,2500
+2025-11-10,T-Shirt,Clothing,West,4,600
+2025-11-11,Headphones,Electronics,West,6,2500
+2025-11-11,Rice (5kg),Grocery,North,7,450
+2025-11-11,Olive Oil,Grocery,East,3,700
+2025-11-11,Desk Lamp,Home,North,5,1200
+2025-11-11,Jeans,Clothing,West,4,1800
+2025-11-11,Laptop,Electronics,South,5,55000
+2025-11-11,Rice (5kg),Grocery,East,3,450
+2025-11-12,Rice (5kg),Grocery,South,4,450
+2025-11-12,Jeans,Clothing,North,4,1800
+2025-11-12,Rice (5kg),Grocery,North,6,450
+2025-11-12,Headphones,Electronics,East,5,2500
+2025-11-12,T-Shirt,Clothing,North,4,600
+2025-11-12,Headphones,Electronics,North,6,2500
+2025-11-12,Cushion,Home,South,7,400
+2025-11-12,T-Shirt,Clothing,South,6,600
+2025-11-13,Rice (5kg),Grocery,West,7,450
+2025-11-13,Cushion,Home,South,7,400
+2025-11-13,Olive Oil,Grocery,East,6,700
+2025-11-13,Rice (5kg),Grocery,West,7,450
+2025-11-13,T-Shirt,Clothing,North,4,600
+2025-11-14,Headphones,Electronics,South,7,2500
+2025-11-14,Rice (5kg),Grocery,North,3,450
+2025-11-14,Olive Oil,Grocery,South,3,700
+2025-11-14,Headphones,Electronics,East,3,2500
+2025-11-14,Headphones,Electronics,East,4,2500
+2025-11-15,Rice (5kg),Grocery,South,7,450
+2025-11-15,Olive Oil,Grocery,West,7,700
+2025-11-15,T-Shirt,Clothing,West,6,600
+2025-11-15,T-Shirt,Clothing,West,3,600
+2025-11-15,Jeans,Clothing,West,6,1800
+2025-11-15,Cushion,Home,North,3,400
+2025-11-15,Headphones,Electronics,North,5,2500
+2025-11-15,T-Shirt,Clothing,West,4,600
+2025-11-16,Rice (5kg),Grocery,West,5,450
+2025-11-16,T-Shirt,Clothing,West,3,600
+2025-11-16,Desk Lamp,Home,North,7,1200
+2025-11-16,Headphones,Electronics,North,7,2500
+2025-11-17,Cushion,Home,South,4,400
+2025-11-17,Jeans,Clothing,South,6,1800
+2025-11-17,Cushion,Home,South,3,400
+2025-11-18,Laptop,Electronics,East,6,55000
+2025-11-18,Cushion,Home,East,6,400
+2025-11-18,Rice (5kg),Grocery,West,7,450
+2025-11-18,T-Shirt,Clothing,South,5,600
+2025-11-18,Cushion,Home,North,7,400
+2025-11-18,Desk Lamp,Home,North,3,1200
+2025-11-19,Rice (5kg),Grocery,South,7,450
+2025-11-19,Headphones,Electronics,North,7,2500
+2025-11-19,Cushion,Home,North,3,400
+2025-11-19,Olive Oil,Grocery,West,4,700
+2025-11-19,T-Shirt,Clothing,South,7,600
+2025-11-19,Rice (5kg),Grocery,North,3,450
+2025-11-19,Rice (5kg),Grocery,East,7,450
+2025-11-20,T-Shirt,Clothing,South,5,600
+2025-11-20,T-Shirt,Clothing,East,4,600
+2025-11-20,Rice (5kg),Grocery,North,3,450
+2025-11-20,Rice (5kg),Grocery,North,7,450
+2025-11-20,Headphones,Electronics,East,4,2500
+2025-11-21,Cushion,Home,South,3,400
+2025-11-21,Jeans,Clothing,West,4,1800
+2025-11-21,Desk Lamp,Home,North,5,1200
+2025-11-21,Olive Oil,Grocery,East,7,700
+2025-11-22,Headphones,Electronics,East,4,2500
+2025-11-22,Headphones,Electronics,South,3,2500
+2025-11-22,T-Shirt,Clothing,South,7,600
+2025-11-22,Olive Oil,Grocery,East,4,700
+2025-11-22,Rice (5kg),Grocery,North,5,450
+2025-11-22,Headphones,Electronics,East,6,2500
+2025-11-22,Headphones,Electronics,South,5,2500
+2025-11-22,Olive Oil,Grocery,South,5,700
+2025-11-23,Rice (5kg),Grocery,North,6,450
+2025-11-23,Headphones,Electronics,North,4,2500
+2025-11-23,Desk Lamp,Home,South,7,1200
+2025-11-23,Rice (5kg),Grocery,East,3,450
+2025-11-23,Jeans,Clothing,East,3,1800
+2025-11-23,T-Shirt,Clothing,North,4,600
+2025-11-23,Jeans,Clothing,West,7,1800
+2025-11-23,Cushion,Home,South,4,400
+2025-11-24,Cushion,Home,West,4,400
+2025-11-24,Headphones,Electronics,West,5,2500
+2025-11-24,Desk Lamp,Home,East,4,1200
+2025-11-24,T-Shirt,Clothing,West,3,600
+2025-11-25,Cushion,Home,South,4,400
+2025-11-25,Desk Lamp,Home,East,6,1200
+2025-11-25,Jeans,Clothing,South,4,1800
+2025-11-26,Olive Oil,Grocery,East,6,700
+2025-11-26,T-Shirt,Clothing,East,3,600
+2025-11-26,Jeans,Clothing,West,7,1800
+2025-11-27,Cushion,Home,East,7,400
+2025-11-27,Cushion,Home,East,3,400
+2025-11-27,T-Shirt,Clothing,North,5,600
+2025-11-27,Headphones,Electronics,East,6,2500
+2025-11-27,Olive Oil,Grocery,West,5,700
+2025-11-27,Rice (5kg),Grocery,North,7,450
+2025-11-27,Jeans,Clothing,South,7,1800
+2025-11-27,T-Shirt,Clothing,North,6,600
+2025-11-28,Cushion,Home,South,7,400
+2025-11-28,Jeans,Clothing,East,3,1800
+2025-11-28,Olive Oil,Grocery,East,3,700
+2025-11-28,Rice (5kg),Grocery,East,6,450
+2025-11-28,Jeans,Clothing,South,5,1800
+2025-11-28,T-Shirt,Clothing,South,6,600
+2025-11-28,Olive Oil,Grocery,West,5,700
+2025-11-29,Desk Lamp,Home,East,5,1200
+2025-11-29,T-Shirt,Clothing,East,7,600
+2025-11-29,Rice (5kg),Grocery,South,6,450
+2025-11-29,Rice (5kg),Grocery,North,4,450
+2025-11-29,T-Shirt,Clothing,East,7,600
+2025-11-29,Headphones,Electronics,East,4,2500
+2025-11-29,T-Shirt,Clothing,South,4,600
+2025-11-30,Headphones,Electronics,North,6,2500
+2025-11-30,Rice (5kg),Grocery,South,7,450
+2025-11-30,Olive Oil,Grocery,West,6,700
+2025-12-01,T-Shirt,Clothing,North,3,600
+2025-12-01,Desk Lamp,Home,South,4,1200
+2025-12-01,Desk Lamp,Home,West,7,1200
+2025-12-01,Headphones,Electronics,North,4,2500
+2025-12-01,Rice (5kg),Grocery,East,6,450
+2025-12-01,Cushion,Home,West,6,400
+2025-12-02,Rice (5kg),Grocery,West,4,450
+2025-12-02,Rice (5kg),Grocery,East,4,450
+2025-12-02,Desk Lamp,Home,West,7,1200
+2025-12-02,Olive Oil,Grocery,West,5,700
+2025-12-02,Headphones,Electronics,South,5,2500
+2025-12-02,T-Shirt,Clothing,North,5,600
+2025-12-02,T-Shirt,Clothing,West,4,600
+2025-12-03,T-Shirt,Clothing,North,4,600
+2025-12-03,Rice (5kg),Grocery,West,5,450
+2025-12-03,Rice (5kg),Grocery,West,4,450
+2025-12-03,Jeans,Clothing,North,7,1800
+2025-12-03,Cushion,Home,West,7,400
+2025-12-03,Rice (5kg),Grocery,East,5,450
+2025-12-03,Desk Lamp,Home,South,6,1200
+2025-12-03,Rice (5kg),Grocery,West,5,450
+2025-12-04,Headphones,Electronics,West,5,2500
+2025-12-04,Olive Oil,Grocery,South,6,700
+2025-12-04,Cushion,Home,North,7,400
+2025-12-04,Cushion,Home,North,7,400
+2025-12-04,Headphones,Electronics,South,6,2500
+2025-12-04,Cushion,Home,North,4,400
+2025-12-05,Jeans,Clothing,West,4,1800
+2025-12-05,Jeans,Clothing,East,6,1800
+2025-12-05,Desk Lamp,Home,East,6,1200
+2025-12-05,Desk Lamp,Home,North,6,1200
+2025-12-05,Desk Lamp,Home,East,3,1200
+2025-12-06,Olive Oil,Grocery,North,3,700
+2025-12-06,Cushion,Home,North,4,400
+2025-12-06,Olive Oil,Grocery,South,4,700
+2025-12-06,Rice (5kg),Grocery,South,3,450
+2025-12-07,Olive Oil,Grocery,South,5,700
+2025-12-07,Rice (5kg),Grocery,South,3,450
+2025-12-07,Cushion,Home,North,3,400
+2025-12-07,Cushion,Home,West,7,400
+2025-12-07,Jeans,Clothing,North,4,1800
+2025-12-07,Rice (5kg),Grocery,North,4,450
+2025-12-08,Desk Lamp,Home,North,7,1200
+2025-12-08,Desk Lamp,Home,North,7,1200
+2025-12-08,Jeans,Clothing,East,6,1800
+2025-12-08,Headphones,Electronics,North,5,2500
+2025-12-08,Cushion,Home,North,6,400
+2025-12-08,Rice (5kg),Grocery,West,5,450
+2025-12-08,Olive Oil,Grocery,South,6,700
+2025-12-08,Olive Oil,Grocery,West,5,700
+2025-12-09,Rice (5kg),Grocery,East,7,450
+2025-12-09,Jeans,Clothing,North,4,1800
+2025-12-09,T-Shirt,Clothing,South,6,600
+2025-12-09,Desk Lamp,Home,West,7,1200
+2025-12-09,Jeans,Clothing,East,6,1800
+2025-12-09,T-Shirt,Clothing,East,4,600
+2025-12-10,Jeans,Clothing,East,7,1800
+2025-12-10,Rice (5kg),Grocery,South,7,450
+2025-12-10,Headphones,Electronics,West,6,2500
+2025-12-10,Rice (5kg),Grocery,West,4,450
+2025-12-10,Olive Oil,Grocery,West,6,700
+2025-12-11,Headphones,Electronics,West,4,2500
+2025-12-11,Olive Oil,Grocery,East,5,700
+2025-12-11,Rice (5kg),Grocery,East,7,450
+2025-12-12,Cushion,Home,East,7,400
+2025-12-12,Jeans,Clothing,East,6,1800
+2025-12-12,Jeans,Clothing,North,4,1800
+2025-12-12,Olive Oil,Grocery,North,5,700
+2025-12-12,Olive Oil,Grocery,South,4,700
+2025-12-12,T-Shirt,Clothing,East,6,600
+2025-12-13,Rice (5kg),Grocery,East,7,450
+2025-12-13,Cushion,Home,East,4,400
+2025-12-13,T-Shirt,Clothing,East,4,600
+2025-12-13,Laptop,Electronics,South,7,55000
+2025-12-13,T-Shirt,Clothing,East,3,600
+2025-12-13,Olive Oil,Grocery,West,4,700
+2025-12-13,Headphones,Electronics,East,3,2500
+2025-12-13,Rice (5kg),Grocery,East,6,450
+2025-12-14,Cushion,Home,West,5,400
+2025-12-14,Headphones,Electronics,West,3,2500
+2025-12-14,Rice (5kg),Grocery,North,7,450
+2025-12-14,T-Shirt,Clothing,East,7,600
+2025-12-15,Cushion,Home,West,3,400
+2025-12-15,Rice (5kg),Grocery,South,7,450
+2025-12-15,Desk Lamp,Home,West,6,1200
+2025-12-16,Jeans,Clothing,West,7,1800
+2025-12-16,Jeans,Clothing,North,7,1800
+2025-12-16,Rice (5kg),Grocery,South,3,450
+2025-12-16,Olive Oil,Grocery,North,5,700
+2025-12-16,T-Shirt,Clothing,North,4,600
+2025-12-16,T-Shirt,Clothing,West,6,600
+2025-12-17,Rice (5kg),Grocery,North,5,450
+2025-12-17,T-Shirt,Clothing,West,5,600
+2025-12-17,Headphones,Electronics,East,4,2500
+2025-12-17,Desk Lamp,Home,South,7,1200
+2025-12-17,Rice (5kg),Grocery,South,7,450
+2025-12-17,Olive Oil,Grocery,South,5,700
+2025-12-17,Headphones,Electronics,East,4,2500
+2025-12-17,Rice (5kg),Grocery,East,7,450
+2025-12-18,T-Shirt,Clothing,West,5,600
+2025-12-18,Cushion,Home,West,7,400
+2025-12-18,Rice (5kg),Grocery,North,7,450
+2025-12-18,Cushion,Home,East,5,400
+2025-12-18,Headphones,Electronics,North,4,2500
+2025-12-18,Cushion,Home,North,5,400
+2025-12-19,Rice (5kg),Grocery,East,6,450
+2025-12-19,T-Shirt,Clothing,West,7,600
+2025-12-19,Olive Oil,Grocery,North,6,700
+2025-12-19,Rice (5kg),Grocery,East,6,450
+2025-12-20,Olive Oil,Grocery,East,4,700
+2025-12-20,Rice (5kg),Grocery,East,6,450
+2025-12-20,Olive Oil,Grocery,North,6,700
+2025-12-20,Rice (5kg),Grocery,East,5,450
+2025-12-20,Jeans,Clothing,North,6,1800
+2025-12-21,Cushion,Home,West,6,400
+2025-12-21,Headphones,Electronics,East,7,2500
+2025-12-21,Olive Oil,Grocery,West,6,700
+2025-12-21,Desk Lamp,Home,East,4,1200
+2025-12-21,Rice (5kg),Grocery,West,5,450
+2025-12-21,Cushion,Home,North,6,400
+2025-12-21,Headphones,Electronics,South,7,2500
+2025-12-21,Olive Oil,Grocery,North,5,700
+2025-12-22,Rice (5kg),Grocery,North,4,450
+2025-12-22,Rice (5kg),Grocery,South,3,450
+2025-12-22,Rice (5kg),Grocery,East,5,450
+2025-12-22,Rice (5kg),Grocery,West,6,450
+2025-12-22,T-Shirt,Clothing,South,7,600
+2025-12-22,Jeans,Clothing,South,7,1800
+2025-12-22,Cushion,Home,West,5,400
+2025-12-23,Cushion,Home,East,7,400
+2025-12-23,Desk Lamp,Home,East,5,1200
+2025-12-23,Desk Lamp,Home,West,7,1200
+2025-12-23,Cushion,Home,West,6,400
+2025-12-23,Jeans,Clothing,West,7,1800
+2025-12-24,Cushion,Home,South,4,400
+2025-12-24,Rice (5kg),Grocery,West,4,450
+2025-12-24,Headphones,Electronics,West,6,2500
+2025-12-24,Jeans,Clothing,West,4,1800
+2025-12-24,Cushion,Home,East,4,400
+2025-12-24,Cushion,Home,North,6,400
+2025-12-25,Cushion,Home,South,3,400
+2025-12-25,Rice (5kg),Grocery,North,4,450
+2025-12-25,Rice (5kg),Grocery,East,5,450
+2025-12-25,Olive Oil,Grocery,North,6,700
+2025-12-25,Cushion,Home,West,7,400
+2025-12-25,Cushion,Home,North,6,400
+2025-12-25,Olive Oil,Grocery,East,4,700
+2025-12-26,Desk Lamp,Home,North,6,1200
+2025-12-26,Desk Lamp,Home,West,3,1200
+2025-12-26,T-Shirt,Clothing,North,5,600
+2025-12-26,Headphones,Electronics,East,3,2500
+2025-12-27,Jeans,Clothing,South,4,1800
+2025-12-27,Rice (5kg),Grocery,South,7,450
+2025-12-27,T-Shirt,Clothing,West,3,600
+2025-12-27,Olive Oil,Grocery,West,4,700
+2025-12-27,Cushion,Home,South,4,400
+2025-12-28,Olive Oil,Grocery,East,6,700
+2025-12-28,Olive Oil,Grocery,East,6,700
+2025-12-28,Olive Oil,Grocery,North,4,700
+2025-12-28,Rice (5kg),Grocery,East,5,450
+2025-12-28,Olive Oil,Grocery,East,6,700
+2025-12-28,Rice (5kg),Grocery,South,5,450
+2025-12-29,Cushion,Home,South,3,400
+2025-12-29,Jeans,Clothing,East,5,1800
+2025-12-29,Cushion,Home,North,5,400
+2025-12-29,Cushion,Home,East,6,400
+2025-12-29,Laptop,Electronics,West,3,55000
+2025-12-29,Desk Lamp,Home,South,5,1200
+2025-12-30,Desk Lamp,Home,South,4,1200
+2025-12-30,Olive Oil,Grocery,North,4,700
+2025-12-30,Cushion,Home,East,3,400
+2025-12-30,Desk Lamp,Home,East,3,1200
+2025-12-30,Olive Oil,Grocery,East,3,700
+2025-12-30,Jeans,Clothing,South,6,1800
+2025-12-30,T-Shirt,Clothing,East,7,600
+2025-12-31,Rice (5kg),Grocery,South,5,450
+2025-12-31,T-Shirt,Clothing,East,6,600
+2025-12-31,Desk Lamp,Home,North,5,1200
+2025-12-31,Rice (5kg),Grocery,South,3,450
+2025-12-31,Desk Lamp,Home,West,4,1200
+2025-12-31,Cushion,Home,East,7,400
+2025-12-31,Headphones,Electronics,North,6,2500
+2026-01-01,Rice (5kg),Grocery,East,4,450
+2026-01-01,Olive Oil,Grocery,West,3,700
+2026-01-01,Desk Lamp,Home,North,3,1200
+2026-01-01,Olive Oil,Grocery,North,4,700
+2026-01-01,Olive Oil,Grocery,East,5,700
+2026-01-02,T-Shirt,Clothing,West,1,600
+2026-01-02,Cushion,Home,West,3,400
+2026-01-02,Headphones,Electronics,North,1,2500
+2026-01-02,Jeans,Clothing,North,4,1800
+2026-01-02,Headphones,Electronics,South,5,2500
+2026-01-02,Jeans,Clothing,West,3,1800
+2026-01-02,Rice (5kg),Grocery,West,2,450
+2026-01-03,Headphones,Electronics,West,4,2500
+2026-01-03,Cushion,Home,North,3,400
+2026-01-03,Olive Oil,Grocery,West,2,700
+2026-01-03,Rice (5kg),Grocery,East,2,450
+2026-01-03,Headphones,Electronics,East,3,2500
+2026-01-03,Headphones,Electronics,South,3,2500
+2026-01-03,Cushion,Home,North,4,400
+2026-01-03,Olive Oil,Grocery,North,5,700
+2026-01-04,Desk Lamp,Home,South,2,1200
+2026-01-04,Desk Lamp,Home,North,2,1200
+2026-01-04,Desk Lamp,Home,South,5,1200
+2026-01-05,T-Shirt,Clothing,East,2,600
+2026-01-05,Desk Lamp,Home,North,5,1200
+2026-01-05,T-Shirt,Clothing,South,2,600
+2026-01-05,Rice (5kg),Grocery,North,2,450
+2026-01-05,Olive Oil,Grocery,South,1,700
+2026-01-05,Laptop,Electronics,East,2,55000
+2026-01-05,Laptop,Electronics,North,3,55000
+2026-01-06,Olive Oil,Grocery,North,5,700
+2026-01-06,Olive Oil,Grocery,West,4,700
+2026-01-06,Desk Lamp,Home,North,5,1200
+2026-01-06,Rice (5kg),Grocery,North,2,450
+2026-01-07,Desk Lamp,Home,East,5,1200
+2026-01-07,Rice (5kg),Grocery,North,1,450
+2026-01-07,Cushion,Home,West,4,400
+2026-01-07,Olive Oil,Grocery,West,4,700
+2026-01-07,Headphones,Electronics,East,1,2500
+2026-01-07,Rice (5kg),Grocery,South,1,450
+2026-01-07,T-Shirt,Clothing,East,5,600
+2026-01-07,Jeans,Clothing,East,5,1800
+2026-01-08,Rice (5kg),Grocery,North,4,450
+2026-01-08,Desk Lamp,Home,South,1,1200
+2026-01-08,Rice (5kg),Grocery,West,2,450
+2026-01-08,Jeans,Clothing,West,4,1800
+2026-01-08,Rice (5kg),Grocery,East,1,450
+2026-01-08,Rice (5kg),Grocery,East,3,450
+2026-01-09,Olive Oil,Grocery,North,4,700
+2026-01-09,Headphones,Electronics,North,1,2500
+2026-01-09,Rice (5kg),Grocery,South,3,450
+2026-01-09,Rice (5kg),Grocery,East,5,450
+2026-01-10,T-Shirt,Clothing,West,3,600
+2026-01-10,Cushion,Home,East,1,400
+2026-01-10,Rice (5kg),Grocery,North,3,450
+2026-01-10,Rice (5kg),Grocery,South,2,450
+2026-01-10,Olive Oil,Grocery,North,2,700
+2026-01-10,Jeans,Clothing,East,5,1800
+2026-01-10,Headphones,Electronics,South,3,2500
+2026-01-10,Desk Lamp,Home,North,5,1200
+2026-01-11,Cushion,Home,North,3,400
+2026-01-11,T-Shirt,Clothing,East,3,600
+2026-01-11,Jeans,Clothing,South,2,1800
+2026-01-11,Rice (5kg),Grocery,North,4,450
+2026-01-11,T-Shirt,Clothing,North,1,600
+2026-01-11,Desk Lamp,Home,West,2,1200
+2026-01-11,Rice (5kg),Grocery,South,3,450
+2026-01-12,Jeans,Clothing,North,3,1800
+2026-01-12,Cushion,Home,South,2,400
+2026-01-12,Desk Lamp,Home,North,1,1200
+2026-01-12,T-Shirt,Clothing,West,4,600
+2026-01-12,Rice (5kg),Grocery,East,4,450
+2026-01-13,Desk Lamp,Home,East,1,1200
+2026-01-13,Rice (5kg),Grocery,West,3,450
+2026-01-13,Rice (5kg),Grocery,North,3,450
+2026-01-13,T-Shirt,Clothing,North,5,600
+2026-01-14,T-Shirt,Clothing,South,2,600
+2026-01-14,Desk Lamp,Home,East,3,1200
+2026-01-14,T-Shirt,Clothing,West,4,600
+2026-01-15,T-Shirt,Clothing,South,5,600
+2026-01-15,Rice (5kg),Grocery,North,3,450
+2026-01-15,Jeans,Clothing,West,1,1800
+2026-01-15,Headphones,Electronics,East,1,2500
+2026-01-16,Rice (5kg),Grocery,West,4,450
+2026-01-16,Jeans,Clothing,North,4,1800
+2026-01-16,Cushion,Home,West,2,400
+2026-01-16,Desk Lamp,Home,North,3,1200
+2026-01-16,Rice (5kg),Grocery,South,1,450
+2026-01-16,Rice (5kg),Grocery,North,4,450
+2026-01-16,Jeans,Clothing,East,3,1800
+2026-01-17,Jeans,Clothing,North,2,1800
+2026-01-17,Rice (5kg),Grocery,South,1,450
+2026-01-17,Cushion,Home,East,3,400
+2026-01-17,Olive Oil,Grocery,South,2,700
+2026-01-18,T-Shirt,Clothing,South,2,600
+2026-01-18,Rice (5kg),Grocery,South,1,450
+2026-01-18,Cushion,Home,West,4,400
+2026-01-19,Desk Lamp,Home,East,4,1200
+2026-01-19,Cushion,Home,South,3,400
+2026-01-19,Rice (5kg),Grocery,West,4,450
+2026-01-19,Olive Oil,Grocery,North,3,700
+2026-01-19,Jeans,Clothing,East,1,1800
+2026-01-19,Rice (5kg),Grocery,North,1,450
+2026-01-19,Jeans,Clothing,North,3,1800
+2026-01-20,Cushion,Home,West,1,400
+2026-01-20,Rice (5kg),Grocery,North,5,450
+2026-01-20,Rice (5kg),Grocery,South,5,450
+2026-01-20,Jeans,Clothing,South,4,1800
+2026-01-20,Cushion,Home,North,4,400
+2026-01-20,Desk Lamp,Home,North,3,1200
+2026-01-20,Rice (5kg),Grocery,North,2,450
+2026-01-20,T-Shirt,Clothing,West,4,600
+2026-01-21,Rice (5kg),Grocery,East,2,450
+2026-01-21,Jeans,Clothing,West,3,1800
+2026-01-21,Rice (5kg),Grocery,North,3,450
+2026-01-21,Desk Lamp,Home,North,3,1200
+2026-01-21,Jeans,Clothing,West,5,1800
+2026-01-21,T-Shirt,Clothing,South,5,600
+2026-01-21,Jeans,Clothing,South,5,1800
+2026-01-22,Jeans,Clothing,South,4,1800
+2026-01-22,Rice (5kg),Grocery,East,1,450
+2026-01-22,Rice (5kg),Grocery,South,3,450
+2026-01-22,Olive Oil,Grocery,North,5,700
+2026-01-22,Olive Oil,Grocery,East,4,700
+2026-01-23,Jeans,Clothing,South,2,1800
+2026-01-23,Jeans,Clothing,South,4,1800
+2026-01-23,T-Shirt,Clothing,South,2,600
+2026-01-24,Jeans,Clothing,North,1,1800
+2026-01-24,Olive Oil,Grocery,South,5,700
+2026-01-24,Rice (5kg),Grocery,South,2,450
+2026-01-25,Desk Lamp,Home,South,5,1200
+2026-01-25,Olive Oil,Grocery,West,1,700
+2026-01-25,Jeans,Clothing,West,2,1800
+2026-01-25,Olive Oil,Grocery,South,4,700
+2026-01-26,T-Shirt,Clothing,South,4,600
+2026-01-26,Jeans,Clothing,West,5,1800
+2026-01-26,Rice (5kg),Grocery,West,3,450
+2026-01-26,Rice (5kg),Grocery,South,4,450
+2026-01-26,Desk Lamp,Home,South,5,1200
+2026-01-26,Cushion,Home,West,1,400
+2026-01-26,Cushion,Home,North,5,400
+2026-01-27,Desk Lamp,Home,East,1,1200
+2026-01-27,Headphones,Electronics,East,2,2500
+2026-01-27,Rice (5kg),Grocery,South,5,450
+2026-01-27,Desk Lamp,Home,South,1,1200
+2026-01-27,Desk Lamp,Home,North,3,1200
+2026-01-27,Rice (5kg),Grocery,East,4,450
+2026-01-27,T-Shirt,Clothing,East,1,600
+2026-01-27,T-Shirt,Clothing,North,3,600
+2026-01-28,Olive Oil,Grocery,South,2,700
+2026-01-28,Headphones,Electronics,South,4,2500
+2026-01-28,Desk Lamp,Home,West,4,1200
+2026-01-28,Olive Oil,Grocery,North,1,700
+2026-01-28,T-Shirt,Clothing,West,2,600
+2026-01-28,Headphones,Electronics,South,3,2500
+2026-01-28,Jeans,Clothing,South,1,1800
+2026-01-28,Rice (5kg),Grocery,West,5,450
+2026-01-29,Headphones,Electronics,North,4,2500
+2026-01-29,Olive Oil,Grocery,South,5,700
+2026-01-29,Olive Oil,Grocery,West,3,700
+2026-01-30,Olive Oil,Grocery,West,2,700
+2026-01-30,T-Shirt,Clothing,East,1,600
+2026-01-30,Headphones,Electronics,North,5,2500
+2026-01-31,Cushion,Home,West,1,400
+2026-01-31,Cushion,Home,North,3,400
+2026-01-31,Jeans,Clothing,East,1,1800
+2026-01-31,T-Shirt,Clothing,East,1,600
+2026-01-31,T-Shirt,Clothing,East,3,600
+2026-01-31,Desk Lamp,Home,West,2,1200
+2026-02-01,Rice (5kg),Grocery,South,2,450
+2026-02-01,Headphones,Electronics,North,4,2500
+2026-02-01,Jeans,Clothing,South,1,1800
+2026-02-01,Cushion,Home,East,3,400
+2026-02-01,Rice (5kg),Grocery,West,5,450
+2026-02-01,T-Shirt,Clothing,East,2,600
+2026-02-01,Jeans,Clothing,East,1,1800
+2026-02-01,T-Shirt,Clothing,West,3,600
+2026-02-02,Olive Oil,Grocery,East,4,700
+2026-02-02,Cushion,Home,West,4,400
+2026-02-02,Jeans,Clothing,East,5,1800
+2026-02-02,Desk Lamp,Home,North,4,1200
+2026-02-02,Rice (5kg),Grocery,East,2,450
+2026-02-02,Jeans,Clothing,East,1,1800
+2026-02-03,Jeans,Clothing,West,4,1800
+2026-02-03,T-Shirt,Clothing,East,4,600
+2026-02-03,Rice (5kg),Grocery,West,3,450
+2026-02-03,T-Shirt,Clothing,North,1,600
+2026-02-03,Olive Oil,Grocery,East,4,700
+2026-02-03,Rice (5kg),Grocery,North,2,450
+2026-02-03,T-Shirt,Clothing,West,5,600
+2026-02-03,Headphones,Electronics,South,1,2500
+2026-02-04,Jeans,Clothing,North,4,1800
+2026-02-04,Rice (5kg),Grocery,East,4,450
+2026-02-04,Jeans,Clothing,South,1,1800
+2026-02-04,Rice (5kg),Grocery,East,4,450
+2026-02-04,Olive Oil,Grocery,North,2,700
+2026-02-04,Headphones,Electronics,West,2,2500
+2026-02-04,Rice (5kg),Grocery,North,5,450
+2026-02-04,T-Shirt,Clothing,West,3,600
+2026-02-05,Cushion,Home,West,3,400
+2026-02-05,T-Shirt,Clothing,North,2,600
+2026-02-05,Rice (5kg),Grocery,North,4,450
+2026-02-05,Desk Lamp,Home,East,3,1200
+2026-02-06,Headphones,Electronics,East,5,2500
+2026-02-06,Cushion,Home,South,2,400
+2026-02-06,Desk Lamp,Home,South,5,1200
+2026-02-06,T-Shirt,Clothing,South,2,600
+2026-02-06,T-Shirt,Clothing,North,4,600
+2026-02-06,Jeans,Clothing,East,5,1800
+2026-02-06,Rice (5kg),Grocery,South,5,450
+2026-02-06,Olive Oil,Grocery,North,1,700
+2026-02-07,Jeans,Clothing,West,4,1800
+2026-02-07,Desk Lamp,Home,North,5,1200
+2026-02-07,T-Shirt,Clothing,North,3,600
+2026-02-07,Rice (5kg),Grocery,East,5,450
+2026-02-07,T-Shirt,Clothing,South,5,600
+2026-02-08,Rice (5kg),Grocery,North,1,450
+2026-02-08,Rice (5kg),Grocery,South,3,450
+2026-02-08,T-Shirt,Clothing,East,2,600
+2026-02-08,Cushion,Home,East,5,400
+2026-02-09,T-Shirt,Clothing,East,5,600
+2026-02-09,T-Shirt,Clothing,North,3,600
+2026-02-09,Rice (5kg),Grocery,South,2,450
+2026-02-10,Olive Oil,Grocery,East,5,700
+2026-02-10,Desk Lamp,Home,North,5,1200
+2026-02-10,Desk Lamp,Home,North,1,1200
+2026-02-10,Headphones,Electronics,East,5,2500
+2026-02-11,T-Shirt,Clothing,West,5,600
+2026-02-11,Olive Oil,Grocery,West,1,700
+2026-02-11,Cushion,Home,East,5,400
+2026-02-11,Olive Oil,Grocery,West,3,700
+2026-02-11,T-Shirt,Clothing,East,4,600
+2026-02-11,Rice (5kg),Grocery,South,1,450
+2026-02-11,Rice (5kg),Grocery,West,4,450
+2026-02-11,T-Shirt,Clothing,South,5,600
+2026-02-12,Cushion,Home,East,3,400
+2026-02-12,Cushion,Home,East,2,400
+2026-02-12,Rice (5kg),Grocery,East,1,450
+2026-02-12,T-Shirt,Clothing,East,1,600
+2026-02-12,Rice (5kg),Grocery,North,2,450
+2026-02-13,Jeans,Clothing,West,4,1800
+2026-02-13,T-Shirt,Clothing,East,2,600
+2026-02-13,Cushion,Home,South,3,400
+2026-02-14,Rice (5kg),Grocery,West,5,450
+2026-02-14,Rice (5kg),Grocery,West,3,450
+2026-02-14,Headphones,Electronics,West,4,2500
+2026-02-14,Cushion,Home,East,2,400
+2026-02-15,Headphones,Electronics,West,4,2500
+2026-02-15,T-Shirt,Clothing,North,1,600
+2026-02-15,Rice (5kg),Grocery,East,3,450
+2026-02-16,Jeans,Clothing,North,4,1800
+2026-02-16,Rice (5kg),Grocery,East,2,450
+2026-02-16,Rice (5kg),Grocery,West,1,450
+2026-02-16,Rice (5kg),Grocery,East,5,450
+2026-02-16,Desk Lamp,Home,North,5,1200
+2026-02-16,T-Shirt,Clothing,West,1,600
+2026-02-17,Desk Lamp,Home,East,3,1200
+2026-02-17,Desk Lamp,Home,West,2,1200
+2026-02-17,Rice (5kg),Grocery,North,1,450
+2026-02-17,T-Shirt,Clothing,West,3,600
+2026-02-17,Rice (5kg),Grocery,South,2,450
+2026-02-18,Cushion,Home,South,3,400
+2026-02-18,Jeans,Clothing,East,5,1800
+2026-02-18,Rice (5kg),Grocery,West,5,450
+2026-02-18,Olive Oil,Grocery,West,3,700
+2026-02-18,Desk Lamp,Home,East,3,1200
+2026-02-19,Headphones,Electronics,East,4,2500
+2026-02-19,Desk Lamp,Home,West,1,1200
+2026-02-19,T-Shirt,Clothing,South,5,600
+2026-02-19,Olive Oil,Grocery,West,5,700
+2026-02-19,T-Shirt,Clothing,West,5,600
+2026-02-19,T-Shirt,Clothing,North,2,600
+2026-02-19,Rice (5kg),Grocery,South,1,450
+2026-02-19,Headphones,Electronics,West,3,2500
+2026-02-20,Rice (5kg),Grocery,West,2,450
+2026-02-20,Rice (5kg),Grocery,West,5,450
+2026-02-20,Cushion,Home,South,1,400
+2026-02-20,Rice (5kg),Grocery,East,5,450
+2026-02-21,Rice (5kg),Grocery,East,4,450
+2026-02-21,Cushion,Home,East,4,400
+2026-02-21,Rice (5kg),Grocery,West,3,450
+2026-02-21,T-Shirt,Clothing,East,2,600
+2026-02-21,Rice (5kg),Grocery,East,2,450
+2026-02-21,Desk Lamp,Home,West,2,1200
+2026-02-21,Jeans,Clothing,East,3,1800
+2026-02-21,T-Shirt,Clothing,West,5,600
+2026-02-22,Desk Lamp,Home,East,2,1200
+2026-02-22,Headphones,Electronics,East,1,2500
+2026-02-22,Cushion,Home,West,3,400
+2026-02-22,T-Shirt,Clothing,East,5,600
+2026-02-22,Cushion,Home,South,3,400
+2026-02-22,Headphones,Electronics,South,5,2500
+2026-02-23,Headphones,Electronics,South,5,2500
+2026-02-23,Olive Oil,Grocery,North,1,700
+2026-02-23,Rice (5kg),Grocery,North,4,450
+2026-02-23,Olive Oil,Grocery,North,2,700
+2026-02-24,Cushion,Home,West,2,400
+2026-02-24,Olive Oil,Grocery,West,4,700
+2026-02-24,Olive Oil,Grocery,East,3,700
+2026-02-24,T-Shirt,Clothing,North,1,600
+2026-02-24,Olive Oil,Grocery,North,2,700
+2026-02-24,Cushion,Home,West,2,400
+2026-02-24,Cushion,Home,North,2,400
+2026-02-25,Desk Lamp,Home,East,2,1200
+2026-02-25,Cushion,Home,East,1,400
+2026-02-25,Rice (5kg),Grocery,East,1,450
+2026-02-25,T-Shirt,Clothing,West,5,600
+2026-02-25,Cushion,Home,West,2,400
+2026-02-25,T-Shirt,Clothing,East,1,600
+2026-02-26,Olive Oil,Grocery,South,3,700
+2026-02-26,Laptop,Electronics,East,3,55000
+2026-02-26,Rice (5kg),Grocery,South,2,450
+2026-02-26,Olive Oil,Grocery,West,4,700
+2026-02-27,Jeans,Clothing,North,4,1800
+2026-02-27,T-Shirt,Clothing,West,2,600
+2026-02-27,Jeans,Clothing,North,2,1800
+2026-02-27,T-Shirt,Clothing,West,2,600
+2026-02-27,Desk Lamp,Home,East,3,1200
+2026-02-27,Rice (5kg),Grocery,North,5,450
+2026-02-27,T-Shirt,Clothing,South,3,600
+2026-02-28,Olive Oil,Grocery,East,4,700
+2026-02-28,T-Shirt,Clothing,East,5,600
+2026-02-28,Olive Oil,Grocery,East,3,700
+2026-03-01,T-Shirt,Clothing,West,2,600
+2026-03-01,T-Shirt,Clothing,East,5,600
+2026-03-01,Rice (5kg),Grocery,West,5,450
+2026-03-01,Desk Lamp,Home,South,2,1200
+2026-03-01,Olive Oil,Grocery,North,5,700
+2026-03-01,Rice (5kg),Grocery,East,5,450
+2026-03-01,Headphones,Electronics,North,5,2500
+2026-03-02,Desk Lamp,Home,South,5,1200
+2026-03-02,Rice (5kg),Grocery,South,2,450
+2026-03-02,Jeans,Clothing,West,5,1800
+2026-03-03,Olive Oil,Grocery,West,5,700
+2026-03-03,Headphones,Electronics,West,5,2500
+2026-03-03,Desk Lamp,Home,South,4,1200
+2026-03-04,Rice (5kg),Grocery,North,5,450
+2026-03-04,Rice (5kg),Grocery,North,3,450
+2026-03-04,Jeans,Clothing,South,1,1800
+2026-03-04,Rice (5kg),Grocery,West,1,450
+2026-03-04,Jeans,Clothing,North,1,1800
+2026-03-04,Cushion,Home,West,1,400
+2026-03-04,Headphones,Electronics,South,4,2500
+2026-03-05,Desk Lamp,Home,East,4,1200
+2026-03-05,Cushion,Home,West,4,400
+2026-03-05,Cushion,Home,West,4,400
+2026-03-05,Headphones,Electronics,South,5,2500
+2026-03-06,Cushion,Home,South,1,400
+2026-03-06,Cushion,Home,South,4,400
+2026-03-06,Olive Oil,Grocery,North,2,700
+2026-03-06,Desk Lamp,Home,West,3,1200
+2026-03-06,Olive Oil,Grocery,West,5,700
+2026-03-06,Rice (5kg),Grocery,South,2,450
+2026-03-06,Rice (5kg),Grocery,East,2,450
+2026-03-06,T-Shirt,Clothing,North,1,600
+2026-03-07,Rice (5kg),Grocery,South,1,450
+2026-03-07,T-Shirt,Clothing,North,1,600
+2026-03-07,Rice (5kg),Grocery,South,1,450
+2026-03-07,Olive Oil,Grocery,West,4,700
+2026-03-07,T-Shirt,Clothing,North,2,600
+2026-03-07,T-Shirt,Clothing,South,3,600
+2026-03-07,Desk Lamp,Home,East,5,1200
+2026-03-07,Rice (5kg),Grocery,South,3,450
+2026-03-08,Cushion,Home,South,5,400
+2026-03-08,Rice (5kg),Grocery,North,3,450
+2026-03-08,Rice (5kg),Grocery,South,5,450
+2026-03-08,Olive Oil,Grocery,West,4,700
+2026-03-08,Headphones,Electronics,West,3,2500
+2026-03-09,Jeans,Clothing,West,4,1800
+2026-03-09,T-Shirt,Clothing,South,4,600
+2026-03-09,Desk Lamp,Home,South,4,1200
+2026-03-09,Cushion,Home,South,3,400
+2026-03-09,Desk Lamp,Home,West,1,1200
+2026-03-09,Cushion,Home,South,5,400
+2026-03-09,Jeans,Clothing,South,3,1800
+2026-03-10,Olive Oil,Grocery,East,4,700
+2026-03-10,Headphones,Electronics,North,2,2500
+2026-03-10,T-Shirt,Clothing,North,5,600
+2026-03-10,Cushion,Home,South,2,400
+2026-03-10,Rice (5kg),Grocery,East,3,450
+2026-03-11,T-Shirt,Clothing,North,2,600
+2026-03-11,Desk Lamp,Home,South,4,1200
+2026-03-11,Olive Oil,Grocery,West,2,700
+2026-03-12,Rice (5kg),Grocery,West,3,450
+2026-03-12,Rice (5kg),Grocery,East,3,450
+2026-03-12,T-Shirt,Clothing,West,5,600
+2026-03-12,Rice (5kg),Grocery,East,4,450
+2026-03-13,Jeans,Clothing,North,4,1800
+2026-03-13,Rice (5kg),Grocery,South,2,450
+2026-03-13,Laptop,Electronics,West,5,55000
+2026-03-13,Jeans,Clothing,East,2,1800
+2026-03-14,Jeans,Clothing,West,2,1800
+2026-03-14,Rice (5kg),Grocery,East,3,450
+2026-03-14,Desk Lamp,Home,West,4,1200
+2026-03-14,Rice (5kg),Grocery,South,3,450
+2026-03-15,Olive Oil,Grocery,South,4,700
+2026-03-15,Cushion,Home,North,5,400
+2026-03-15,Rice (5kg),Grocery,North,1,450
+2026-03-15,Desk Lamp,Home,South,4,1200
+2026-03-16,T-Shirt,Clothing,North,2,600
+2026-03-16,T-Shirt,Clothing,East,4,600
+2026-03-16,Headphones,Electronics,West,5,2500
+2026-03-16,Olive Oil,Grocery,North,1,700
+2026-03-16,Rice (5kg),Grocery,North,4,450
+2026-03-16,Laptop,Electronics,East,3,55000
+2026-03-16,Headphones,Electronics,South,4,2500
+2026-03-16,Headphones,Electronics,South,1,2500
+2026-03-17,T-Shirt,Clothing,East,5,600
+2026-03-17,Desk Lamp,Home,West,3,1200
+2026-03-17,Headphones,Electronics,West,4,2500
+2026-03-17,Rice (5kg),Grocery,East,2,450
+2026-03-18,Desk Lamp,Home,North,1,1200
+2026-03-18,Headphones,Electronics,West,4,2500
+2026-03-18,Rice (5kg),Grocery,North,1,450
+2026-03-18,Olive Oil,Grocery,West,1,700
+2026-03-18,Desk Lamp,Home,North,3,1200
+2026-03-18,Cushion,Home,South,1,400
+2026-03-18,T-Shirt,Clothing,West,5,600
+2026-03-18,T-Shirt,Clothing,East,1,600
+2026-03-19,Rice (5kg),Grocery,South,1,450
+2026-03-19,Cushion,Home,North,3,400
+2026-03-19,Cushion,Home,South,5,400
+2026-03-19,Desk Lamp,Home,North,4,1200
+2026-03-19,Jeans,Clothing,South,5,1800
+2026-03-19,Rice (5kg),Grocery,East,4,450
+2026-03-19,Jeans,Clothing,North,2,1800
+2026-03-20,Olive Oil,Grocery,North,3,700
+2026-03-20,Headphones,Electronics,North,2,2500
+2026-03-20,Jeans,Clothing,West,5,1800
+2026-03-20,Cushion,Home,North,3,400
+2026-03-20,Olive Oil,Grocery,West,4,700
+2026-03-20,T-Shirt,Clothing,West,5,600
+2026-03-20,Rice (5kg),Grocery,West,5,450
+2026-03-21,Desk Lamp,Home,South,3,1200
+2026-03-21,Olive Oil,Grocery,East,1,700
+2026-03-21,T-Shirt,Clothing,West,2,600
+2026-03-22,Jeans,Clothing,North,1,1800
+2026-03-22,Cushion,Home,East,4,400
+2026-03-22,Desk Lamp,Home,South,1,1200
+2026-03-22,Headphones,Electronics,West,4,2500
+2026-03-22,Rice (5kg),Grocery,West,5,450
+2026-03-23,Headphones,Electronics,North,3,2500
+2026-03-23,Rice (5kg),Grocery,West,3,450
+2026-03-23,Laptop,Electronics,West,4,55000
+2026-03-24,Olive Oil,Grocery,South,5,700
+2026-03-24,Rice (5kg),Grocery,West,2,450
+2026-03-24,T-Shirt,Clothing,East,3,600
+2026-03-25,Rice (5kg),Grocery,South,1,450
+2026-03-25,Rice (5kg),Grocery,East,4,450
+2026-03-25,Rice (5kg),Grocery,East,1,450
+2026-03-25,T-Shirt,Clothing,West,2,600
+2026-03-25,Rice (5kg),Grocery,West,2,450
+2026-03-26,T-Shirt,Clothing,West,1,600
+2026-03-26,Jeans,Clothing,West,5,1800
+2026-03-26,Desk Lamp,Home,West,3,1200
+2026-03-27,Rice (5kg),Grocery,South,5,450
+2026-03-27,Jeans,Clothing,South,5,1800
+2026-03-27,Rice (5kg),Grocery,West,2,450
+2026-03-27,Cushion,Home,West,3,400
+2026-03-27,Cushion,Home,East,2,400
+2026-03-28,T-Shirt,Clothing,East,4,600
+2026-03-28,Headphones,Electronics,South,5,2500
+2026-03-28,Rice (5kg),Grocery,South,5,450
+2026-03-28,Olive Oil,Grocery,North,5,700
+2026-03-28,Cushion,Home,South,4,400
+2026-03-28,Rice (5kg),Grocery,North,3,450
+2026-03-29,Olive Oil,Grocery,East,2,700
+2026-03-29,T-Shirt,Clothing,West,2,600
+2026-03-29,Desk Lamp,Home,West,1,1200
+2026-03-29,Cushion,Home,West,4,400
+2026-03-29,Rice (5kg),Grocery,North,4,450
+2026-03-29,Desk Lamp,Home,North,3,1200
+2026-03-30,Desk Lamp,Home,South,3,1200
+2026-03-30,Olive Oil,Grocery,West,1,700
+2026-03-30,Cushion,Home,West,3,400
+2026-03-31,Laptop,Electronics,South,3,55000
+2026-03-31,Rice (5kg),Grocery,South,5,450
+2026-03-31,Rice (5kg),Grocery,West,4,450
+2026-04-01,Rice (5kg),Grocery,South,5,450
+2026-04-01,Jeans,Clothing,West,1,1800
+2026-04-01,Headphones,Electronics,North,4,2500
+2026-04-01,Headphones,Electronics,East,2,2500
+2026-04-01,Jeans,Clothing,South,4,1800
+2026-04-01,Rice (5kg),Grocery,West,3,450
+2026-04-01,Headphones,Electronics,East,4,2500
+2026-04-01,Headphones,Electronics,North,1,2500
+2026-04-02,Cushion,Home,South,1,400
+2026-04-02,Cushion,Home,South,2,400
+2026-04-02,Rice (5kg),Grocery,West,3,450
+2026-04-03,T-Shirt,Clothing,South,4,600
+2026-04-03,T-Shirt,Clothing,West,4,600
+2026-04-03,Headphones,Electronics,South,5,2500
+2026-04-03,Rice (5kg),Grocery,West,4,450
+2026-04-03,Laptop,Electronics,South,2,55000
+2026-04-03,T-Shirt,Clothing,North,1,600
+2026-04-04,T-Shirt,Clothing,South,3,600
+2026-04-04,Rice (5kg),Grocery,West,3,450
+2026-04-04,Rice (5kg),Grocery,West,3,450
+2026-04-04,Olive Oil,Grocery,North,5,700
+2026-04-04,Jeans,Clothing,South,4,1800
+2026-04-04,Desk Lamp,Home,North,3,1200
+2026-04-04,Olive Oil,Grocery,North,3,700
+2026-04-05,Jeans,Clothing,East,2,1800
+2026-04-05,Olive Oil,Grocery,West,5,700
+2026-04-05,Rice (5kg),Grocery,West,2,450
+2026-04-05,Rice (5kg),Grocery,South,4,450
+2026-04-06,T-Shirt,Clothing,South,3,600
+2026-04-06,T-Shirt,Clothing,North,4,600
+2026-04-06,Cushion,Home,West,1,400
+2026-04-06,T-Shirt,Clothing,West,4,600
+2026-04-06,Rice (5kg),Grocery,West,4,450
+2026-04-06,Olive Oil,Grocery,West,4,700
+2026-04-06,T-Shirt,Clothing,North,5,600
+2026-04-07,Jeans,Clothing,South,3,1800
+2026-04-07,Rice (5kg),Grocery,West,2,450
+2026-04-07,Rice (5kg),Grocery,North,4,450
+2026-04-07,Rice (5kg),Grocery,East,3,450
+2026-04-08,Desk Lamp,Home,West,1,1200
+2026-04-08,Rice (5kg),Grocery,North,4,450
+2026-04-08,Olive Oil,Grocery,East,2,700
+2026-04-08,Cushion,Home,West,1,400
+2026-04-08,T-Shirt,Clothing,West,1,600
+2026-04-08,Cushion,Home,South,1,400
+2026-04-08,T-Shirt,Clothing,East,5,600
+2026-04-09,Olive Oil,Grocery,South,4,700
+2026-04-09,Olive Oil,Grocery,South,2,700
+2026-04-09,Desk Lamp,Home,East,5,1200
+2026-04-09,Rice (5kg),Grocery,South,5,450
+2026-04-09,Jeans,Clothing,East,3,1800
+2026-04-09,Rice (5kg),Grocery,North,5,450
+2026-04-09,T-Shirt,Clothing,North,4,600
+2026-04-09,Cushion,Home,South,2,400
+2026-04-10,T-Shirt,Clothing,South,3,600
+2026-04-10,Desk Lamp,Home,West,4,1200
+2026-04-10,T-Shirt,Clothing,West,3,600
+2026-04-10,Jeans,Clothing,North,1,1800
+2026-04-11,Rice (5kg),Grocery,East,3,450
+2026-04-11,Rice (5kg),Grocery,East,4,450
+2026-04-11,Rice (5kg),Grocery,West,1,450
+2026-04-11,Olive Oil,Grocery,North,3,700
+2026-04-11,Desk Lamp,Home,South,4,1200
+2026-04-11,Cushion,Home,West,2,400
+2026-04-12,Jeans,Clothing,East,3,1800
+2026-04-12,Rice (5kg),Grocery,West,2,450
+2026-04-12,Desk Lamp,Home,North,1,1200
+2026-04-12,Headphones,Electronics,North,4,2500
+2026-04-12,T-Shirt,Clothing,West,2,600
+2026-04-13,Laptop,Electronics,South,4,55000
+2026-04-13,Cushion,Home,East,2,400
+2026-04-13,T-Shirt,Clothing,North,3,600
+2026-04-13,Olive Oil,Grocery,North,3,700
+2026-04-13,Jeans,Clothing,North,2,1800
+2026-04-13,Jeans,Clothing,South,3,1800
+2026-04-14,Olive Oil,Grocery,North,1,700
+2026-04-14,T-Shirt,Clothing,South,1,600
+2026-04-14,Rice (5kg),Grocery,West,5,450
+2026-04-14,Laptop,Electronics,North,3,55000
+2026-04-14,Cushion,Home,South,4,400
+2026-04-14,Rice (5kg),Grocery,West,2,450
+2026-04-15,Olive Oil,Grocery,North,1,700
+2026-04-15,Jeans,Clothing,South,3,1800
+2026-04-15,Jeans,Clothing,South,2,1800
+2026-04-16,Rice (5kg),Grocery,South,1,450
+2026-04-16,Rice (5kg),Grocery,South,2,450
+2026-04-16,Cushion,Home,West,5,400
+2026-04-17,Headphones,Electronics,South,1,2500
+2026-04-17,Desk Lamp,Home,West,5,1200
+2026-04-17,Jeans,Clothing,East,4,1800
+2026-04-17,Desk Lamp,Home,East,2,1200
+2026-04-18,Headphones,Electronics,East,5,2500
+2026-04-18,Desk Lamp,Home,East,1,1200
+2026-04-18,T-Shirt,Clothing,South,5,600
+2026-04-18,Desk Lamp,Home,North,3,1200
+2026-04-18,Desk Lamp,Home,West,2,1200
+2026-04-18,Jeans,Clothing,West,2,1800
+2026-04-18,Olive Oil,Grocery,North,1,700
+2026-04-18,Cushion,Home,South,3,400
+2026-04-19,Cushion,Home,West,5,400
+2026-04-19,Jeans,Clothing,West,2,1800
+2026-04-19,Cushion,Home,North,1,400
+2026-04-19,Rice (5kg),Grocery,East,1,450
+2026-04-19,T-Shirt,Clothing,West,1,600
+2026-04-19,Rice (5kg),Grocery,West,5,450
+2026-04-20,Olive Oil,Grocery,South,1,700
+2026-04-20,T-Shirt,Clothing,North,3,600
+2026-04-20,Rice (5kg),Grocery,South,2,450
+2026-04-20,Rice (5kg),Grocery,North,4,450
+2026-04-20,Jeans,Clothing,South,4,1800
+2026-04-20,Headphones,Electronics,West,1,2500
+2026-04-21,Rice (5kg),Grocery,North,5,450
+2026-04-21,Jeans,Clothing,North,2,1800
+2026-04-21,Laptop,Electronics,North,2,55000
+2026-04-22,Rice (5kg),Grocery,East,3,450
+2026-04-22,T-Shirt,Clothing,East,2,600
+2026-04-22,Olive Oil,Grocery,North,1,700
+2026-04-22,Jeans,Clothing,East,4,1800
+2026-04-23,Headphones,Electronics,North,5,2500
+2026-04-23,Rice (5kg),Grocery,East,5,450
+2026-04-23,Headphones,Electronics,South,5,2500
+2026-04-23,Jeans,Clothing,North,3,1800
+2026-04-23,Cushion,Home,South,1,400
+2026-04-23,Olive Oil,Grocery,North,1,700
+2026-04-23,Cushion,Home,South,1,400
+2026-04-24,Rice (5kg),Grocery,South,4,450
+2026-04-24,T-Shirt,Clothing,West,1,600
+2026-04-24,T-Shirt,Clothing,West,2,600
+2026-04-25,Jeans,Clothing,East,1,1800
+2026-04-25,T-Shirt,Clothing,South,1,600
+2026-04-25,T-Shirt,Clothing,North,5,600
+2026-04-25,Cushion,Home,West,1,400
+2026-04-25,Cushion,Home,East,3,400
+2026-04-25,Headphones,Electronics,North,4,2500
+2026-04-25,Jeans,Clothing,East,3,1800
+2026-04-25,Olive Oil,Grocery,West,2,700
+2026-04-26,Rice (5kg),Grocery,South,4,450
+2026-04-26,Olive Oil,Grocery,South,5,700
+2026-04-26,T-Shirt,Clothing,North,4,600
+2026-04-26,T-Shirt,Clothing,North,3,600
+2026-04-26,Cushion,Home,West,1,400
+2026-04-27,Olive Oil,Grocery,South,1,700
+2026-04-27,Rice (5kg),Grocery,West,2,450
+2026-04-27,Rice (5kg),Grocery,South,1,450
+2026-04-27,Olive Oil,Grocery,North,1,700
+2026-04-27,Cushion,Home,West,5,400
+2026-04-27,Olive Oil,Grocery,West,3,700
+2026-04-27,Cushion,Home,North,1,400
+2026-04-27,Rice (5kg),Grocery,North,4,450
+2026-04-28,Rice (5kg),Grocery,South,4,450
+2026-04-28,T-Shirt,Clothing,East,3,600
+2026-04-28,Cushion,Home,East,4,400
+2026-04-28,Jeans,Clothing,South,3,1800
+2026-04-28,Headphones,Electronics,South,2,2500
+2026-04-28,Desk Lamp,Home,North,5,1200
+2026-04-28,T-Shirt,Clothing,West,2,600
+2026-04-29,Jeans,Clothing,East,1,1800
+2026-04-29,Cushion,Home,West,2,400
+2026-04-29,Jeans,Clothing,North,3,1800
+2026-04-29,Headphones,Electronics,North,3,2500
+2026-04-29,T-Shirt,Clothing,South,3,600
+2026-04-29,Headphones,Electronics,East,2,2500
+2026-04-30,Rice (5kg),Grocery,East,3,450
+2026-04-30,Desk Lamp,Home,North,2,1200
+2026-04-30,Cushion,Home,South,4,400
+2026-04-30,Headphones,Electronics,South,1,2500
+2026-04-30,T-Shirt,Clothing,South,1,600
+2026-04-30,T-Shirt,Clothing,East,4,600
+2026-05-01,Olive Oil,Grocery,East,1,700
+2026-05-01,Cushion,Home,North,1,400
+2026-05-01,Cushion,Home,West,2,400
+2026-05-01,Desk Lamp,Home,East,1,1200
+2026-05-01,T-Shirt,Clothing,North,4,600
+2026-05-01,T-Shirt,Clothing,West,5,600
+2026-05-01,Desk Lamp,Home,West,4,1200
+2026-05-01,Headphones,Electronics,South,4,2500
+2026-05-02,T-Shirt,Clothing,East,2,600
+2026-05-02,T-Shirt,Clothing,North,2,600
+2026-05-02,Olive Oil,Grocery,South,5,700
+2026-05-02,Olive Oil,Grocery,West,4,700
+2026-05-02,Cushion,Home,North,4,400
+2026-05-03,T-Shirt,Clothing,West,2,600
+2026-05-03,T-Shirt,Clothing,South,5,600
+2026-05-03,Olive Oil,Grocery,North,5,700
+2026-05-04,Desk Lamp,Home,West,3,1200
+2026-05-04,Rice (5kg),Grocery,East,4,450
+2026-05-04,Cushion,Home,East,5,400
+2026-05-04,Jeans,Clothing,North,2,1800
+2026-05-04,Jeans,Clothing,North,2,1800
+2026-05-04,Cushion,Home,North,3,400
+2026-05-05,Rice (5kg),Grocery,South,5,450
+2026-05-05,Cushion,Home,South,1,400
+2026-05-05,Olive Oil,Grocery,North,3,700
+2026-05-05,Desk Lamp,Home,West,2,1200
+2026-05-05,Jeans,Clothing,South,2,1800
+2026-05-05,T-Shirt,Clothing,East,3,600
+2026-05-06,Headphones,Electronics,South,3,2500
+2026-05-06,Rice (5kg),Grocery,West,2,450
+2026-05-06,Rice (5kg),Grocery,West,2,450
+2026-05-06,Headphones,Electronics,South,1,2500
+2026-05-06,Rice (5kg),Grocery,West,1,450
+2026-05-06,Laptop,Electronics,South,5,55000
+2026-05-06,Desk Lamp,Home,South,3,1200
+2026-05-07,Headphones,Electronics,South,2,2500
+2026-05-07,Desk Lamp,Home,East,5,1200
+2026-05-07,Cushion,Home,West,3,400
+2026-05-07,Rice (5kg),Grocery,East,3,450
+2026-05-07,Jeans,Clothing,West,2,1800
+2026-05-08,Cushion,Home,South,3,400
+2026-05-08,Olive Oil,Grocery,East,5,700
+2026-05-08,T-Shirt,Clothing,South,5,600
+2026-05-08,Jeans,Clothing,South,3,1800
+2026-05-08,T-Shirt,Clothing,West,1,600
+2026-05-08,Cushion,Home,North,5,400
+2026-05-08,T-Shirt,Clothing,South,3,600
+2026-05-08,Olive Oil,Grocery,West,1,700
+2026-05-09,Jeans,Clothing,South,1,1800
+2026-05-09,Jeans,Clothing,South,3,1800
+2026-05-09,Olive Oil,Grocery,East,1,700
+2026-05-09,Rice (5kg),Grocery,South,3,450
+2026-05-10,Olive Oil,Grocery,East,3,700
+2026-05-10,Desk Lamp,Home,North,1,1200
+2026-05-10,Jeans,Clothing,South,4,1800
+2026-05-10,Cushion,Home,West,4,400
+2026-05-11,Rice (5kg),Grocery,West,1,450
+2026-05-11,Desk Lamp,Home,South,5,1200
+2026-05-11,T-Shirt,Clothing,North,1,600
+2026-05-11,Jeans,Clothing,East,3,1800
+2026-05-11,Cushion,Home,East,1,400
+2026-05-12,Cushion,Home,North,2,400
+2026-05-12,Rice (5kg),Grocery,East,1,450
+2026-05-12,Rice (5kg),Grocery,West,5,450
+2026-05-12,Olive Oil,Grocery,South,4,700
+2026-05-13,Cushion,Home,North,2,400
+2026-05-13,Headphones,Electronics,South,2,2500
+2026-05-13,Rice (5kg),Grocery,East,5,450
+2026-05-13,Olive Oil,Grocery,South,3,700
+2026-05-13,Headphones,Electronics,West,4,2500
+2026-05-13,T-Shirt,Clothing,North,3,600
+2026-05-13,Rice (5kg),Grocery,West,3,450
+2026-05-14,Headphones,Electronics,South,2,2500
+2026-05-14,Olive Oil,Grocery,West,1,700
+2026-05-14,Desk Lamp,Home,West,3,1200
+2026-05-14,Rice (5kg),Grocery,North,3,450
+2026-05-15,Rice (5kg),Grocery,East,2,450
+2026-05-15,Cushion,Home,South,3,400
+2026-05-15,Rice (5kg),Grocery,West,3,450
+2026-05-15,Rice (5kg),Grocery,East,2,450
+2026-05-15,Rice (5kg),Grocery,North,2,450
+2026-05-15,Headphones,Electronics,West,3,2500
+2026-05-15,Cushion,Home,South,5,400
+2026-05-15,Rice (5kg),Grocery,West,4,450
+2026-05-16,Olive Oil,Grocery,South,4,700
+2026-05-16,Rice (5kg),Grocery,West,1,450
+2026-05-16,Cushion,Home,South,1,400
+2026-05-16,T-Shirt,Clothing,South,4,600
+2026-05-16,Cushion,Home,South,2,400
+2026-05-16,Desk Lamp,Home,North,2,1200
+2026-05-16,Rice (5kg),Grocery,South,4,450
+2026-05-17,T-Shirt,Clothing,East,5,600
+2026-05-17,Jeans,Clothing,North,1,1800
+2026-05-17,Jeans,Clothing,East,4,1800
+2026-05-17,Cushion,Home,West,5,400
+2026-05-17,Cushion,Home,West,1,400
+2026-05-17,Headphones,Electronics,South,2,2500
+2026-05-17,Rice (5kg),Grocery,North,5,450
+2026-05-17,Cushion,Home,North,5,400
+2026-05-18,Cushion,Home,West,3,400
+2026-05-18,T-Shirt,Clothing,West,4,600
+2026-05-18,Headphones,Electronics,West,3,2500
+2026-05-18,T-Shirt,Clothing,West,5,600
+2026-05-18,Headphones,Electronics,South,3,2500
+2026-05-19,Olive Oil,Grocery,East,3,700
+2026-05-19,Headphones,Electronics,East,3,2500
+2026-05-19,T-Shirt,Clothing,North,4,600
+2026-05-20,T-Shirt,Clothing,East,4,600
+2026-05-20,T-Shirt,Clothing,North,4,600
+2026-05-20,T-Shirt,Clothing,West,2,600
+2026-05-20,Olive Oil,Grocery,East,5,700
+2026-05-21,Rice (5kg),Grocery,North,2,450
+2026-05-21,Jeans,Clothing,West,5,1800
+2026-05-21,T-Shirt,Clothing,North,5,600
+2026-05-22,T-Shirt,Clothing,North,2,600
+2026-05-22,T-Shirt,Clothing,North,4,600
+2026-05-22,Cushion,Home,East,2,400
+2026-05-22,Jeans,Clothing,West,4,1800
+2026-05-23,Cushion,Home,South,1,400
+2026-05-23,Jeans,Clothing,West,5,1800
+2026-05-23,T-Shirt,Clothing,East,4,600
+2026-05-23,Jeans,Clothing,North,3,1800
+2026-05-23,T-Shirt,Clothing,North,4,600
+2026-05-23,T-Shirt,Clothing,South,5,600
+2026-05-23,Cushion,Home,South,2,400
+2026-05-23,T-Shirt,Clothing,North,4,600
+2026-05-24,Laptop,Electronics,South,2,55000
+2026-05-24,Rice (5kg),Grocery,South,1,450
+2026-05-24,T-Shirt,Clothing,East,3,600
+2026-05-24,Rice (5kg),Grocery,East,4,450
+2026-05-24,Rice (5kg),Grocery,West,2,450
+2026-05-24,Jeans,Clothing,West,5,1800
+2026-05-24,Rice (5kg),Grocery,East,1,450
+2026-05-24,Rice (5kg),Grocery,East,5,450
+2026-05-25,Olive Oil,Grocery,North,4,700
+2026-05-25,Jeans,Clothing,East,3,1800
+2026-05-25,Cushion,Home,East,3,400
+2026-05-25,T-Shirt,Clothing,South,5,600
+2026-05-25,Cushion,Home,West,5,400
+2026-05-26,Jeans,Clothing,North,2,1800
+2026-05-26,Olive Oil,Grocery,East,3,700
+2026-05-26,Cushion,Home,West,4,400
+2026-05-26,Olive Oil,Grocery,South,5,700
+2026-05-26,Jeans,Clothing,West,2,1800
+2026-05-26,Cushion,Home,East,3,400
+2026-05-26,Desk Lamp,Home,South,5,1200
+2026-05-26,Jeans,Clothing,South,4,1800
+2026-05-27,T-Shirt,Clothing,South,5,600
+2026-05-27,Cushion,Home,North,3,400
+2026-05-27,T-Shirt,Clothing,East,2,600
+2026-05-27,Rice (5kg),Grocery,East,3,450
+2026-05-27,T-Shirt,Clothing,West,3,600
+2026-05-27,Cushion,Home,North,4,400
+2026-05-27,Cushion,Home,North,5,400
+2026-05-27,Rice (5kg),Grocery,North,2,450
+2026-05-28,Jeans,Clothing,West,3,1800
+2026-05-28,Headphones,Electronics,South,2,2500
+2026-05-28,Cushion,Home,West,3,400
+2026-05-28,Cushion,Home,South,4,400
+2026-05-28,Jeans,Clothing,North,2,1800
+2026-05-28,Rice (5kg),Grocery,East,2,450
+2026-05-28,Olive Oil,Grocery,West,1,700
+2026-05-28,T-Shirt,Clothing,South,2,600
+2026-05-29,Desk Lamp,Home,South,1,1200
+2026-05-29,Olive Oil,Grocery,West,4,700
+2026-05-29,Rice (5kg),Grocery,West,4,450
+2026-05-29,Laptop,Electronics,South,5,55000
+2026-05-29,Olive Oil,Grocery,East,1,700
+2026-05-29,Desk Lamp,Home,South,5,1200
+2026-05-30,Olive Oil,Grocery,South,2,700
+2026-05-30,Olive Oil,Grocery,East,3,700
+2026-05-30,T-Shirt,Clothing,East,4,600
+2026-05-31,Headphones,Electronics,East,1,2500
+2026-05-31,Cushion,Home,East,4,400
+2026-05-31,Rice (5kg),Grocery,East,2,450
+2026-05-31,Cushion,Home,East,4,400
+2026-06-01,T-Shirt,Clothing,North,4,600
+2026-06-01,T-Shirt,Clothing,South,2,600
+2026-06-01,Olive Oil,Grocery,South,5,700
+2026-06-01,T-Shirt,Clothing,West,1,600
+2026-06-02,T-Shirt,Clothing,North,5,600
+2026-06-02,Rice (5kg),Grocery,North,1,450
+2026-06-02,Olive Oil,Grocery,North,1,700
+2026-06-02,Olive Oil,Grocery,West,4,700
+2026-06-02,Jeans,Clothing,East,5,1800
+2026-06-02,Rice (5kg),Grocery,South,2,450
+2026-06-02,Olive Oil,Grocery,East,1,700
+2026-06-02,Rice (5kg),Grocery,East,1,450
+2026-06-03,Rice (5kg),Grocery,West,2,450
+2026-06-03,Desk Lamp,Home,North,1,1200
+2026-06-03,T-Shirt,Clothing,West,1,600
+2026-06-03,T-Shirt,Clothing,East,2,600
+2026-06-03,Desk Lamp,Home,East,2,1200
+2026-06-03,Olive Oil,Grocery,South,3,700
+2026-06-03,Headphones,Electronics,South,4,2500
+2026-06-04,Cushion,Home,South,3,400
+2026-06-04,Laptop,Electronics,North,1,55000
+2026-06-04,Desk Lamp,Home,South,4,1200
+2026-06-04,Cushion,Home,North,5,400
+2026-06-04,Olive Oil,Grocery,East,1,700
+2026-06-04,Olive Oil,Grocery,East,4,700
+2026-06-04,T-Shirt,Clothing,North,1,600
+2026-06-04,Desk Lamp,Home,East,1,1200
+2026-06-05,Desk Lamp,Home,West,3,1200
+2026-06-05,Olive Oil,Grocery,North,1,700
+2026-06-05,Laptop,Electronics,South,2,55000
+2026-06-05,Jeans,Clothing,East,4,1800
+2026-06-05,Cushion,Home,East,1,400
+2026-06-06,T-Shirt,Clothing,West,4,600
+2026-06-06,Cushion,Home,West,3,400
+2026-06-06,Olive Oil,Grocery,West,4,700
+2026-06-06,Olive Oil,Grocery,North,2,700
+2026-06-06,T-Shirt,Clothing,South,1,600
+2026-06-07,Rice (5kg),Grocery,West,5,450
+2026-06-07,Desk Lamp,Home,South,4,1200
+2026-06-07,Olive Oil,Grocery,North,3,700
+2026-06-08,Cushion,Home,West,2,400
+2026-06-08,Cushion,Home,West,1,400
+2026-06-08,Rice (5kg),Grocery,East,1,450
+2026-06-08,Olive Oil,Grocery,South,1,700
+2026-06-08,Cushion,Home,North,3,400
+2026-06-08,Rice (5kg),Grocery,West,2,450
+2026-06-08,Jeans,Clothing,South,4,1800
+2026-06-08,Desk Lamp,Home,North,5,1200
+2026-06-09,Olive Oil,Grocery,West,2,700
+2026-06-09,Cushion,Home,North,2,400
+2026-06-09,Desk Lamp,Home,South,3,1200
+2026-06-10,Cushion,Home,South,1,400
+2026-06-10,Rice (5kg),Grocery,West,4,450
+2026-06-10,Desk Lamp,Home,West,1,1200
+2026-06-10,Rice (5kg),Grocery,West,5,450
+2026-06-10,Headphones,Electronics,West,4,2500
+2026-06-11,T-Shirt,Clothing,North,4,600
+2026-06-11,Headphones,Electronics,North,4,2500
+2026-06-11,Rice (5kg),Grocery,North,1,450
+2026-06-11,Desk Lamp,Home,East,5,1200
+2026-06-11,Cushion,Home,South,5,400
+2026-06-12,Olive Oil,Grocery,East,3,700
+2026-06-12,Desk Lamp,Home,West,2,1200
+2026-06-12,Jeans,Clothing,West,5,1800
+2026-06-12,Olive Oil,Grocery,West,3,700
+2026-06-12,Headphones,Electronics,North,2,2500
+2026-06-12,Jeans,Clothing,East,3,1800
+2026-06-12,Olive Oil,Grocery,South,1,700
+2026-06-12,Rice (5kg),Grocery,North,4,450
+2026-06-13,Olive Oil,Grocery,North,2,700
+2026-06-13,Cushion,Home,South,4,400
+2026-06-13,Rice (5kg),Grocery,East,2,450
+2026-06-13,Headphones,Electronics,North,4,2500
+2026-06-13,Cushion,Home,North,5,400
+2026-06-14,Rice (5kg),Grocery,South,5,450
+2026-06-14,Cushion,Home,North,1,400
+2026-06-14,Rice (5kg),Grocery,West,4,450
+2026-06-14,Cushion,Home,South,2,400
+2026-06-14,Olive Oil,Grocery,North,2,700
+2026-06-14,Jeans,Clothing,East,5,1800
+2026-06-15,Cushion,Home,South,4,400
+2026-06-15,T-Shirt,Clothing,East,3,600
+2026-06-15,Rice (5kg),Grocery,South,2,450
+2026-06-15,Rice (5kg),Grocery,East,5,450
+2026-06-15,Desk Lamp,Home,East,5,1200
+2026-06-15,Olive Oil,Grocery,South,5,700
+2026-06-15,T-Shirt,Clothing,East,5,600
+2026-06-16,Jeans,Clothing,South,2,1800
+2026-06-16,Rice (5kg),Grocery,North,3,450
+2026-06-16,Desk Lamp,Home,West,5,1200
+2026-06-16,Rice (5kg),Grocery,East,4,450
+2026-06-16,Cushion,Home,North,4,400
+2026-06-16,Rice (5kg),Grocery,West,1,450
+2026-06-16,T-Shirt,Clothing,South,1,600
+2026-06-16,T-Shirt,Clothing,East,2,600
+2026-06-17,T-Shirt,Clothing,East,1,600
+2026-06-17,T-Shirt,Clothing,North,5,600
+2026-06-17,Jeans,Clothing,North,4,1800
+2026-06-17,Olive Oil,Grocery,South,5,700
+2026-06-17,Olive Oil,Grocery,West,5,700
+2026-06-17,T-Shirt,Clothing,North,3,600
+2026-06-17,Cushion,Home,West,4,400
+2026-06-17,Cushion,Home,North,3,400
+2026-06-18,Olive Oil,Grocery,West,2,700
+2026-06-18,Desk Lamp,Home,South,3,1200
+2026-06-18,Desk Lamp,Home,East,2,1200
+2026-06-19,T-Shirt,Clothing,South,1,600
+2026-06-19,Cushion,Home,North,5,400
+2026-06-19,Jeans,Clothing,East,4,1800
+2026-06-19,Rice (5kg),Grocery,South,2,450
+2026-06-19,Rice (5kg),Grocery,North,3,450
+2026-06-19,Jeans,Clothing,North,2,1800
+2026-06-20,Cushion,Home,North,5,400
+2026-06-20,Desk Lamp,Home,East,5,1200
+2026-06-20,Rice (5kg),Grocery,East,5,450
+2026-06-20,Headphones,Electronics,South,3,2500
+2026-06-21,Rice (5kg),Grocery,South,5,450
+2026-06-21,Rice (5kg),Grocery,West,5,450
+2026-06-21,Headphones,Electronics,South,2,2500
+2026-06-21,Olive Oil,Grocery,East,3,700
+2026-06-22,T-Shirt,Clothing,West,5,600
+2026-06-22,Cushion,Home,North,1,400
+2026-06-22,Olive Oil,Grocery,South,4,700
+2026-06-22,Cushion,Home,South,5,400
+2026-06-22,Cushion,Home,West,3,400
+2026-06-23,Jeans,Clothing,East,5,1800
+2026-06-23,Headphones,Electronics,East,5,2500
+2026-06-23,Rice (5kg),Grocery,West,5,450
+2026-06-24,Headphones,Electronics,East,2,2500
+2026-06-24,Rice (5kg),Grocery,South,1,450
+2026-06-24,Cushion,Home,North,5,400
+2026-06-24,Olive Oil,Grocery,South,2,700
+2026-06-24,Cushion,Home,North,4,400
+2026-06-24,T-Shirt,Clothing,North,4,600
+2026-06-25,Olive Oil,Grocery,West,1,700
+2026-06-25,Olive Oil,Grocery,North,1,700
+2026-06-25,Headphones,Electronics,East,2,2500
+2026-06-25,Rice (5kg),Grocery,South,5,450
+2026-06-25,Cushion,Home,West,4,400
+2026-06-25,Rice (5kg),Grocery,West,4,450
+2026-06-25,Jeans,Clothing,North,4,1800
+2026-06-25,Rice (5kg),Grocery,North,5,450
+2026-06-26,Rice (5kg),Grocery,East,1,450
+2026-06-26,Cushion,Home,East,1,400
+2026-06-26,Desk Lamp,Home,North,3,1200
+2026-06-26,T-Shirt,Clothing,West,4,600
+2026-06-26,Jeans,Clothing,West,1,1800
+2026-06-26,T-Shirt,Clothing,South,2,600
+2026-06-26,Desk Lamp,Home,East,5,1200
+2026-06-26,Cushion,Home,East,2,400
+2026-06-27,Cushion,Home,North,3,400
+2026-06-27,Rice (5kg),Grocery,South,5,450
+2026-06-27,T-Shirt,Clothing,West,1,600
+2026-06-27,Rice (5kg),Grocery,East,1,450
+2026-06-27,T-Shirt,Clothing,South,3,600
+2026-06-27,Rice (5kg),Grocery,South,5,450
+2026-06-27,T-Shirt,Clothing,East,2,600
+2026-06-27,T-Shirt,Clothing,North,2,600
+2026-06-28,Rice (5kg),Grocery,North,5,450
+2026-06-28,Jeans,Clothing,East,1,1800
+2026-06-28,Headphones,Electronics,West,5,2500
+2026-06-28,Cushion,Home,South,3,400
+2026-06-28,Olive Oil,Grocery,North,2,700
+2026-06-28,T-Shirt,Clothing,South,1,600
+2026-06-28,Jeans,Clothing,East,4,1800
+2026-06-29,Olive Oil,Grocery,South,5,700
+2026-06-29,Rice (5kg),Grocery,East,3,450
+2026-06-29,Cushion,Home,North,2,400
+2026-06-29,Jeans,Clothing,West,2,1800
+2026-06-29,T-Shirt,Clothing,South,3,600
+2026-06-29,Olive Oil,Grocery,West,3,700
+2026-06-29,Rice (5kg),Grocery,East,3,450
+2026-06-30,Rice (5kg),Grocery,North,2,450
+2026-06-30,Desk Lamp,Home,South,2,1200
+2026-06-30,T-Shirt,Clothing,North,1,600
+2026-06-30,Cushion,Home,North,5,400
+2026-06-30,Desk Lamp,Home,West,5,1200
+2026-06-30,Desk Lamp,Home,North,2,1200
+2026-07-01,T-Shirt,Clothing,West,5,600
+2026-07-01,Olive Oil,Grocery,East,2,700
+2026-07-01,Jeans,Clothing,East,5,1800
+2026-07-01,T-Shirt,Clothing,North,5,600
+2026-07-01,Jeans,Clothing,North,5,1800
+2026-07-01,Olive Oil,Grocery,South,5,700
+2026-07-01,Desk Lamp,Home,West,2,1200
+2026-07-02,T-Shirt,Clothing,South,5,600
+2026-07-02,Olive Oil,Grocery,East,4,700
+2026-07-02,Headphones,Electronics,South,4,2500
+2026-07-02,Headphones,Electronics,South,3,2500
+2026-07-03,Olive Oil,Grocery,East,5,700
+2026-07-03,Jeans,Clothing,North,4,1800
+2026-07-03,Headphones,Electronics,North,3,2500
+2026-07-04,Cushion,Home,East,3,400
+2026-07-04,Rice (5kg),Grocery,South,5,450
+2026-07-04,Jeans,Clothing,East,4,1800
+2026-07-04,Rice (5kg),Grocery,East,1,450
+2026-07-04,Jeans,Clothing,West,2,1800
+2026-07-04,Jeans,Clothing,West,3,1800
+2026-07-04,Desk Lamp,Home,North,5,1200
+2026-07-04,Rice (5kg),Grocery,West,2,450
+2026-07-05,T-Shirt,Clothing,East,5,600
+2026-07-05,T-Shirt,Clothing,South,2,600
+2026-07-05,Jeans,Clothing,South,1,1800
+2026-07-05,Rice (5kg),Grocery,North,3,450
+2026-07-06,Olive Oil,Grocery,South,4,700
+2026-07-06,Rice (5kg),Grocery,North,4,450
+2026-07-06,T-Shirt,Clothing,South,2,600
+2026-07-06,T-Shirt,Clothing,North,5,600
+2026-07-06,Cushion,Home,North,2,400
+2026-07-06,T-Shirt,Clothing,West,2,600
+2026-07-07,Cushion,Home,East,1,400
+2026-07-07,Cushion,Home,West,2,400
+2026-07-07,Rice (5kg),Grocery,West,4,450
+2026-07-07,T-Shirt,Clothing,South,4,600
+2026-07-07,Desk Lamp,Home,East,2,1200
+2026-07-07,T-Shirt,Clothing,West,3,600
+2026-07-07,Rice (5kg),Grocery,South,1,450
+2026-07-08,Jeans,Clothing,North,1,1800
+2026-07-08,T-Shirt,Clothing,West,5,600
+2026-07-08,Desk Lamp,Home,North,5,1200
+2026-07-08,T-Shirt,Clothing,North,5,600
+2026-07-08,Cushion,Home,North,5,400
+2026-07-08,Headphones,Electronics,North,2,2500
+2026-07-09,Olive Oil,Grocery,West,5,700
+2026-07-09,Jeans,Clothing,West,1,1800
+2026-07-09,T-Shirt,Clothing,West,4,600
+2026-07-09,Jeans,Clothing,North,5,1800
+2026-07-09,Rice (5kg),Grocery,West,3,450
+2026-07-09,Desk Lamp,Home,East,1,1200
+2026-07-09,Rice (5kg),Grocery,West,5,450
+2026-07-09,T-Shirt,Clothing,North,1,600
+2026-07-10,Rice (5kg),Grocery,North,5,450
+2026-07-10,Jeans,Clothing,East,2,1800
+2026-07-10,Rice (5kg),Grocery,South,1,450
+2026-07-10,Rice (5kg),Grocery,East,5,450
+2026-07-10,T-Shirt,Clothing,West,5,600
+2026-07-10,Rice (5kg),Grocery,East,5,450
+2026-07-10,Cushion,Home,South,4,400
+2026-07-11,Rice (5kg),Grocery,West,5,450
+2026-07-11,T-Shirt,Clothing,West,5,600
+2026-07-11,T-Shirt,Clothing,East,3,600
+2026-07-11,Desk Lamp,Home,South,4,1200
+2026-07-11,Cushion,Home,South,1,400
+2026-07-11,Rice (5kg),Grocery,North,2,450
+2026-07-12,Rice (5kg),Grocery,North,3,450
+2026-07-12,T-Shirt,Clothing,North,1,600
+2026-07-12,Desk Lamp,Home,West,4,1200
+2026-07-12,Headphones,Electronics,South,3,2500
+2026-07-13,Headphones,Electronics,West,1,2500
+2026-07-13,Cushion,Home,East,4,400
+2026-07-13,Olive Oil,Grocery,North,5,700
+2026-07-13,Cushion,Home,West,2,400
+2026-07-13,Rice (5kg),Grocery,East,2,450
+2026-07-14,Headphones,Electronics,South,5,2500
+2026-07-14,Olive Oil,Grocery,East,1,700
+2026-07-14,T-Shirt,Clothing,South,1,600
+2026-07-14,Headphones,Electronics,West,3,2500
+2026-07-15,Olive Oil,Grocery,South,4,700
+2026-07-15,Rice (5kg),Grocery,North,1,450
+2026-07-15,Rice (5kg),Grocery,East,5,450
+2026-07-15,Jeans,Clothing,South,3,1800
+2026-07-15,Rice (5kg),Grocery,West,2,450
+2026-07-16,Rice (5kg),Grocery,South,3,450
+2026-07-16,Rice (5kg),Grocery,North,1,450
+2026-07-16,Rice (5kg),Grocery,North,3,450
+2026-07-16,Desk Lamp,Home,East,3,1200
+2026-07-16,Olive Oil,Grocery,West,4,700
+2026-07-16,Desk Lamp,Home,West,3,1200
+2026-07-17,Rice (5kg),Grocery,North,5,450
+2026-07-17,Rice (5kg),Grocery,North,3,450
+2026-07-17,Jeans,Clothing,South,2,1800
+2026-07-17,Desk Lamp,Home,East,4,1200
+2026-07-17,Rice (5kg),Grocery,East,1,450
+2026-07-17,T-Shirt,Clothing,West,1,600
+2026-07-17,Olive Oil,Grocery,North,3,700
+2026-07-17,Rice (5kg),Grocery,West,2,450
+2026-07-18,Jeans,Clothing,East,5,1800
+2026-07-18,T-Shirt,Clothing,West,2,600
+2026-07-18,Olive Oil,Grocery,South,2,700
+2026-07-18,Cushion,Home,South,2,400
+2026-07-18,T-Shirt,Clothing,East,2,600
+2026-07-19,Desk Lamp,Home,North,1,1200
+2026-07-19,Olive Oil,Grocery,North,4,700
+2026-07-19,Desk Lamp,Home,North,5,1200
+2026-07-19,Cushion,Home,East,3,400
+2026-07-20,Cushion,Home,East,5,400
+2026-07-20,Rice (5kg),Grocery,East,5,450
+2026-07-20,Jeans,Clothing,South,5,1800
+2026-07-20,Headphones,Electronics,West,4,2500
+2026-07-20,Cushion,Home,East,1,400
+2026-07-20,Jeans,Clothing,West,2,1800
+2026-07-21,Olive Oil,Grocery,East,4,700
+2026-07-21,Olive Oil,Grocery,South,1,700
+2026-07-21,Jeans,Clothing,East,1,1800
+2026-07-22,Olive Oil,Grocery,South,3,700
+2026-07-22,Rice (5kg),Grocery,East,2,450
+2026-07-22,Rice (5kg),Grocery,East,5,450
+2026-07-22,Jeans,Clothing,West,4,1800
+2026-07-22,T-Shirt,Clothing,East,3,600
+2026-07-23,T-Shirt,Clothing,South,2,600
+2026-07-23,Cushion,Home,North,2,400
+2026-07-23,Olive Oil,Grocery,West,2,700
+2026-07-23,Cushion,Home,South,2,400
+2026-07-23,Desk Lamp,Home,West,2,1200
+2026-07-23,Desk Lamp,Home,West,2,1200
+2026-07-24,T-Shirt,Clothing,East,5,600
+2026-07-24,Desk Lamp,Home,East,3,1200
+2026-07-24,Rice (5kg),Grocery,North,5,450
+2026-07-24,Jeans,Clothing,North,2,1800
+2026-07-24,T-Shirt,Clothing,West,3,600
+2026-07-24,Desk Lamp,Home,West,1,1200
+2026-07-25,Jeans,Clothing,East,3,1800
+2026-07-25,Rice (5kg),Grocery,East,3,450
+2026-07-25,Headphones,Electronics,East,1,2500
+2026-07-25,Cushion,Home,South,5,400
+2026-07-25,Rice (5kg),Grocery,South,5,450
+2026-07-25,Cushion,Home,East,3,400
+2026-07-25,Jeans,Clothing,West,5,1800
+2026-07-25,Desk Lamp,Home,North,4,1200
+2026-07-26,Olive Oil,Grocery,South,4,700
+2026-07-26,Cushion,Home,West,3,400
+2026-07-26,Olive Oil,Grocery,West,5,700
+2026-07-26,Cushion,Home,North,1,400
+2026-07-26,T-Shirt,Clothing,East,2,600
+2026-07-26,Jeans,Clothing,East,3,1800
+2026-07-27,Olive Oil,Grocery,West,3,700
+2026-07-27,Desk Lamp,Home,West,3,1200
+2026-07-27,Rice (5kg),Grocery,North,2,450
+2026-07-27,T-Shirt,Clothing,East,2,600
+2026-07-27,Cushion,Home,South,1,400
+2026-07-27,T-Shirt,Clothing,North,1,600
+2026-07-27,Headphones,Electronics,North,4,2500
+2026-07-28,Desk Lamp,Home,North,5,1200
+2026-07-28,Headphones,Electronics,South,5,2500
+2026-07-28,Headphones,Electronics,East,4,2500
+2026-07-29,T-Shirt,Clothing,West,3,600
+2026-07-29,Olive Oil,Grocery,South,2,700
+2026-07-29,Headphones,Electronics,East,3,2500
+2026-07-29,Cushion,Home,East,4,400
+2026-07-30,Rice (5kg),Grocery,South,5,450
+2026-07-30,Rice (5kg),Grocery,West,4,450
+2026-07-30,Rice (5kg),Grocery,East,5,450
+2026-07-30,Cushion,Home,South,4,400
+2026-07-30,Desk Lamp,Home,East,4,1200
+2026-07-30,Jeans,Clothing,South,3,1800
+2026-07-30,Jeans,Clothing,South,1,1800
+2026-07-31,T-Shirt,Clothing,North,5,600
+2026-07-31,Olive Oil,Grocery,West,4,700
+2026-07-31,Jeans,Clothing,East,4,1800
+2026-07-31,Rice (5kg),Grocery,East,1,450
+2026-07-31,T-Shirt,Clothing,West,5,600
+2026-08-01,T-Shirt,Clothing,West,4,600
+2026-08-01,T-Shirt,Clothing,West,1,600
+2026-08-01,Olive Oil,Grocery,East,5,700
+2026-08-01,T-Shirt,Clothing,East,5,600
+2026-08-01,Rice (5kg),Grocery,South,1,450
+2026-08-01,T-Shirt,Clothing,West,1,600
+2026-08-02,Rice (5kg),Grocery,West,5,450
+2026-08-02,T-Shirt,Clothing,South,1,600
+2026-08-02,Headphones,Electronics,North,5,2500
+2026-08-02,T-Shirt,Clothing,East,1,600
+2026-08-02,T-Shirt,Clothing,North,4,600
+2026-08-02,T-Shirt,Clothing,North,2,600
+2026-08-02,Rice (5kg),Grocery,West,3,450
+2026-08-03,Desk Lamp,Home,East,4,1200
+2026-08-03,Rice (5kg),Grocery,East,1,450
+2026-08-03,Headphones,Electronics,North,2,2500
+2026-08-03,T-Shirt,Clothing,North,4,600
+2026-08-03,Rice (5kg),Grocery,South,2,450
+2026-08-04,Desk Lamp,Home,North,1,1200
+2026-08-04,Cushion,Home,West,2,400
+2026-08-04,Desk Lamp,Home,South,4,1200
+2026-08-04,Olive Oil,Grocery,South,1,700
+2026-08-04,Rice (5kg),Grocery,South,1,450
+2026-08-05,Jeans,Clothing,East,3,1800
+2026-08-05,T-Shirt,Clothing,North,1,600
+2026-08-05,T-Shirt,Clothing,South,3,600
+2026-08-05,Jeans,Clothing,South,1,1800
+2026-08-05,Cushion,Home,West,2,400
+2026-08-05,Jeans,Clothing,East,2,1800
+2026-08-06,T-Shirt,Clothing,North,2,600
+2026-08-06,Cushion,Home,West,5,400
+2026-08-06,Olive Oil,Grocery,East,2,700
+2026-08-06,Desk Lamp,Home,South,2,1200
+2026-08-06,Rice (5kg),Grocery,East,5,450
+2026-08-06,Cushion,Home,North,1,400
+2026-08-06,Jeans,Clothing,North,2,1800
+2026-08-07,Rice (5kg),Grocery,East,3,450
+2026-08-07,Desk Lamp,Home,South,4,1200
+2026-08-07,Headphones,Electronics,East,4,2500
+2026-08-07,Olive Oil,Grocery,North,3,700
+2026-08-08,Olive Oil,Grocery,East,5,700
+2026-08-08,Rice (5kg),Grocery,South,4,450
+2026-08-08,Rice (5kg),Grocery,East,5,450
+2026-08-08,Jeans,Clothing,East,4,1800
+2026-08-08,Cushion,Home,South,5,400
+2026-08-08,Headphones,Electronics,West,2,2500
+2026-08-09,Desk Lamp,Home,East,5,1200
+2026-08-09,Rice (5kg),Grocery,West,5,450
+2026-08-09,Olive Oil,Grocery,East,1,700
+2026-08-09,Desk Lamp,Home,East,2,1200
+2026-08-09,Olive Oil,Grocery,West,5,700
+2026-08-10,Rice (5kg),Grocery,South,4,450
+2026-08-10,Olive Oil,Grocery,West,3,700
+2026-08-10,Olive Oil,Grocery,North,1,700
+2026-08-10,Rice (5kg),Grocery,North,1,450
+2026-08-11,T-Shirt,Clothing,South,1,600
+2026-08-11,Headphones,Electronics,North,2,2500
+2026-08-11,Headphones,Electronics,West,4,2500
+2026-08-11,Rice (5kg),Grocery,East,5,450
+2026-08-12,Jeans,Clothing,North,5,1800
+2026-08-12,Laptop,Electronics,West,2,55000
+2026-08-12,Cushion,Home,West,1,400
+2026-08-13,Headphones,Electronics,West,5,2500
+2026-08-13,Desk Lamp,Home,East,1,1200
+2026-08-13,Rice (5kg),Grocery,East,1,450
+2026-08-13,Headphones,Electronics,North,2,2500
+2026-08-13,Headphones,Electronics,West,2,2500
+2026-08-13,T-Shirt,Clothing,South,5,600
+2026-08-13,Rice (5kg),Grocery,West,2,450
+2026-08-13,Desk Lamp,Home,East,5,1200
+2026-08-14,Rice (5kg),Grocery,North,4,450
+2026-08-14,T-Shirt,Clothing,West,2,600
+2026-08-14,Rice (5kg),Grocery,West,2,450
+2026-08-14,Cushion,Home,East,3,400
+2026-08-14,Desk Lamp,Home,West,4,1200
+2026-08-14,Desk Lamp,Home,South,3,1200
+2026-08-14,Rice (5kg),Grocery,West,2,450
+2026-08-14,Desk Lamp,Home,East,3,1200
+2026-08-15,Rice (5kg),Grocery,North,4,450
+2026-08-15,Olive Oil,Grocery,North,3,700
+2026-08-15,Rice (5kg),Grocery,North,3,450
+2026-08-15,Jeans,Clothing,South,2,1800
+2026-08-15,Cushion,Home,East,1,400
+2026-08-15,Cushion,Home,South,5,400
+2026-08-16,Headphones,Electronics,South,3,2500
+2026-08-16,T-Shirt,Clothing,South,3,600
+2026-08-16,T-Shirt,Clothing,North,3,600
+2026-08-17,Jeans,Clothing,North,2,1800
+2026-08-17,Olive Oil,Grocery,South,4,700
+2026-08-17,Rice (5kg),Grocery,North,5,450
+2026-08-17,Rice (5kg),Grocery,North,3,450
+2026-08-17,Olive Oil,Grocery,West,5,700
+2026-08-17,Headphones,Electronics,East,1,2500
+2026-08-17,Jeans,Clothing,West,4,1800
+2026-08-18,Cushion,Home,North,2,400
+2026-08-18,Olive Oil,Grocery,North,4,700
+2026-08-18,Jeans,Clothing,East,1,1800
+2026-08-19,Rice (5kg),Grocery,South,3,450
+2026-08-19,T-Shirt,Clothing,West,4,600
+2026-08-19,Desk Lamp,Home,North,5,1200
+2026-08-19,T-Shirt,Clothing,West,3,600
+2026-08-19,T-Shirt,Clothing,North,3,600
+2026-08-19,Rice (5kg),Grocery,West,1,450
+2026-08-19,T-Shirt,Clothing,West,4,600
+2026-08-20,T-Shirt,Clothing,West,2,600
+2026-08-20,Rice (5kg),Grocery,West,4,450
+2026-08-20,Olive Oil,Grocery,South,2,700
+2026-08-20,T-Shirt,Clothing,West,3,600
+2026-08-20,Jeans,Clothing,North,5,1800
+2026-08-20,Headphones,Electronics,West,4,2500
+2026-08-20,Jeans,Clothing,East,2,1800
+2026-08-20,Jeans,Clothing,East,1,1800
+2026-08-21,Cushion,Home,West,5,400
+2026-08-21,Olive Oil,Grocery,North,4,700
+2026-08-21,Cushion,Home,South,2,400
+2026-08-21,Olive Oil,Grocery,North,2,700
+2026-08-22,Olive Oil,Grocery,South,2,700
+2026-08-22,Cushion,Home,North,3,400
+2026-08-22,Jeans,Clothing,East,1,1800
+2026-08-23,Rice (5kg),Grocery,South,3,450
+2026-08-23,Olive Oil,Grocery,South,2,700
+2026-08-23,Rice (5kg),Grocery,West,3,450
+2026-08-23,Olive Oil,Grocery,North,2,700
+2026-08-23,Jeans,Clothing,North,5,1800
+2026-08-23,T-Shirt,Clothing,East,1,600
+2026-08-24,Desk Lamp,Home,East,5,1200
+2026-08-24,Headphones,Electronics,North,1,2500
+2026-08-24,Jeans,Clothing,East,3,1800
+2026-08-24,Cushion,Home,East,1,400
+2026-08-25,Jeans,Clothing,North,4,1800
+2026-08-25,Cushion,Home,North,4,400
+2026-08-25,T-Shirt,Clothing,West,5,600
+2026-08-25,Rice (5kg),Grocery,North,1,450
+2026-08-25,T-Shirt,Clothing,East,5,600
+2026-08-25,Jeans,Clothing,South,4,1800
+2026-08-25,Headphones,Electronics,East,3,2500
+2026-08-25,Olive Oil,Grocery,East,2,700
+2026-08-26,Olive Oil,Grocery,North,4,700
+2026-08-26,Cushion,Home,South,3,400
+2026-08-26,T-Shirt,Clothing,South,4,600
+2026-08-27,Olive Oil,Grocery,South,5,700
+2026-08-27,Rice (5kg),Grocery,South,5,450
+2026-08-27,Rice (5kg),Grocery,East,3,450
+2026-08-28,Rice (5kg),Grocery,South,2,450
+2026-08-28,Rice (5kg),Grocery,South,2,450
+2026-08-28,Jeans,Clothing,South,5,1800
+2026-08-28,Rice (5kg),Grocery,South,2,450
+2026-08-28,Jeans,Clothing,North,5,1800
+2026-08-28,T-Shirt,Clothing,North,2,600
+2026-08-29,Cushion,Home,West,4,400
+2026-08-29,Jeans,Clothing,South,3,1800
+2026-08-29,Desk Lamp,Home,South,1,1200
+2026-08-29,T-Shirt,Clothing,East,5,600
+2026-08-29,Rice (5kg),Grocery,South,5,450
+2026-08-30,T-Shirt,Clothing,East,1,600
+2026-08-30,Headphones,Electronics,South,4,2500
+2026-08-30,Rice (5kg),Grocery,West,5,450
+2026-08-30,Olive Oil,Grocery,South,3,700
+2026-08-30,Cushion,Home,West,4,400
+2026-08-30,T-Shirt,Clothing,South,2,600
+2026-08-30,Headphones,Electronics,East,1,2500
+2026-08-31,T-Shirt,Clothing,South,2,600
+2026-08-31,Headphones,Electronics,West,4,2500
+2026-08-31,Olive Oil,Grocery,South,4,700
+2026-08-31,Rice (5kg),Grocery,West,1,450
+2026-08-31,Olive Oil,Grocery,North,4,700
+2026-08-31,Rice (5kg),Grocery,West,4,450
+2026-09-01,Cushion,Home,West,2,400
+2026-09-01,Cushion,Home,West,1,400
+2026-09-01,Rice (5kg),Grocery,South,1,450
+2026-09-02,Rice (5kg),Grocery,East,3,450
+2026-09-02,Rice (5kg),Grocery,East,4,450
+2026-09-02,Olive Oil,Grocery,South,1,700
+2026-09-02,Rice (5kg),Grocery,North,4,450
+2026-09-02,Olive Oil,Grocery,South,1,700
+2026-09-03,Cushion,Home,South,5,400
+2026-09-03,Jeans,Clothing,West,3,1800
+2026-09-03,Headphones,Electronics,South,4,2500
+2026-09-03,Cushion,Home,East,1,400
+2026-09-03,Jeans,Clothing,North,2,1800
+2026-09-03,Headphones,Electronics,East,4,2500
+2026-09-03,Headphones,Electronics,South,4,2500
+2026-09-04,Rice (5kg),Grocery,South,1,450
+2026-09-04,Cushion,Home,South,5,400
+2026-09-04,T-Shirt,Clothing,South,2,600
+2026-09-04,Desk Lamp,Home,West,1,1200
+2026-09-04,Jeans,Clothing,East,4,1800
+2026-09-04,Olive Oil,Grocery,South,1,700
+2026-09-05,Laptop,Electronics,North,3,55000
+2026-09-05,Rice (5kg),Grocery,North,4,450
+2026-09-05,Rice (5kg),Grocery,South,4,450
+2026-09-05,T-Shirt,Clothing,West,4,600
+2026-09-06,Rice (5kg),Grocery,North,5,450
+2026-09-06,T-Shirt,Clothing,East,5,600
+2026-09-06,Olive Oil,Grocery,South,5,700
+2026-09-06,Headphones,Electronics,North,2,2500
+2026-09-06,Olive Oil,Grocery,South,1,700
+2026-09-06,Cushion,Home,East,5,400
+2026-09-07,Cushion,Home,North,1,400
+2026-09-07,Rice (5kg),Grocery,South,2,450
+2026-09-07,Olive Oil,Grocery,South,5,700
+2026-09-07,Cushion,Home,East,5,400
+2026-09-07,Cushion,Home,East,1,400
+2026-09-08,Jeans,Clothing,North,4,1800
+2026-09-08,Desk Lamp,Home,North,5,1200
+2026-09-08,Jeans,Clothing,North,2,1800
+2026-09-08,Olive Oil,Grocery,East,3,700
+2026-09-08,Rice (5kg),Grocery,South,5,450
+2026-09-09,T-Shirt,Clothing,North,1,600
+2026-09-09,Rice (5kg),Grocery,North,5,450
+2026-09-09,Rice (5kg),Grocery,East,5,450
+2026-09-09,Rice (5kg),Grocery,East,3,450
+2026-09-09,Rice (5kg),Grocery,East,5,450
+2026-09-09,Cushion,Home,West,5,400
+2026-09-09,Rice (5kg),Grocery,West,4,450
+2026-09-09,Desk Lamp,Home,South,5,1200
+2026-09-10,Jeans,Clothing,North,2,1800
+2026-09-10,Headphones,Electronics,North,4,2500
+2026-09-10,Olive Oil,Grocery,West,2,700
+2026-09-10,Rice (5kg),Grocery,East,3,450
+2026-09-10,Rice (5kg),Grocery,North,2,450
+2026-09-10,Olive Oil,Grocery,East,3,700
+2026-09-10,Desk Lamp,Home,East,3,1200
+2026-09-10,Rice (5kg),Grocery,North,3,450
+2026-09-11,Olive Oil,Grocery,West,3,700
+2026-09-11,Olive Oil,Grocery,North,5,700
+2026-09-11,Desk Lamp,Home,East,2,1200
+2026-09-12,Cushion,Home,West,4,400
+2026-09-12,Desk Lamp,Home,West,2,1200
+2026-09-12,T-Shirt,Clothing,East,4,600
+2026-09-12,Rice (5kg),Grocery,North,4,450
+2026-09-12,Desk Lamp,Home,East,3,1200
+2026-09-13,Rice (5kg),Grocery,East,2,450
+2026-09-13,Desk Lamp,Home,North,3,1200
+2026-09-13,Cushion,Home,North,3,400
+2026-09-13,Jeans,Clothing,South,4,1800
+2026-09-13,Rice (5kg),Grocery,South,4,450
+2026-09-13,Rice (5kg),Grocery,East,3,450
+2026-09-13,Olive Oil,Grocery,West,3,700
+2026-09-14,Rice (5kg),Grocery,East,2,450
+2026-09-14,Rice (5kg),Grocery,South,3,450
+2026-09-14,Rice (5kg),Grocery,North,2,450
+2026-09-15,Desk Lamp,Home,North,2,1200
+2026-09-15,Rice (5kg),Grocery,West,1,450
+2026-09-15,Cushion,Home,South,2,400
+2026-09-15,Jeans,Clothing,East,4,1800
+2026-09-15,Desk Lamp,Home,North,2,1200
+2026-09-16,Olive Oil,Grocery,South,2,700
+2026-09-16,Olive Oil,Grocery,West,4,700
+2026-09-16,Olive Oil,Grocery,North,5,700
+2026-09-16,Laptop,Electronics,North,1,55000
+2026-09-16,Jeans,Clothing,North,1,1800
+2026-09-16,Rice (5kg),Grocery,North,3,450
+2026-09-16,Rice (5kg),Grocery,South,3,450
+2026-09-17,T-Shirt,Clothing,East,3,600
+2026-09-17,Rice (5kg),Grocery,North,4,450
+2026-09-17,T-Shirt,Clothing,East,2,600
+2026-09-17,Headphones,Electronics,North,5,2500
+2026-09-17,T-Shirt,Clothing,East,3,600
+2026-09-18,T-Shirt,Clothing,South,3,600
+2026-09-18,T-Shirt,Clothing,East,3,600
+2026-09-18,Rice (5kg),Grocery,South,1,450
+2026-09-18,Headphones,Electronics,North,1,2500
+2026-09-18,Jeans,Clothing,West,1,1800
+2026-09-19,T-Shirt,Clothing,West,5,600
+2026-09-19,Olive Oil,Grocery,East,3,700
+2026-09-19,Desk Lamp,Home,North,5,1200
+2026-09-19,Cushion,Home,South,4,400
+2026-09-19,Headphones,Electronics,North,4,2500
+2026-09-19,Rice (5kg),Grocery,West,4,450
+2026-09-20,Cushion,Home,East,2,400
+2026-09-20,Cushion,Home,South,4,400
+2026-09-20,Olive Oil,Grocery,East,3,700
+2026-09-20,Rice (5kg),Grocery,North,1,450
+2026-09-21,Headphones,Electronics,West,4,2500
+2026-09-21,Desk Lamp,Home,East,3,1200
+2026-09-21,Rice (5kg),Grocery,North,2,450
+2026-09-21,Jeans,Clothing,East,1,1800
+2026-09-21,Rice (5kg),Grocery,East,1,450
+2026-09-21,Rice (5kg),Grocery,West,4,450
+2026-09-22,Olive Oil,Grocery,South,5,700
+2026-09-22,Cushion,Home,North,4,400
+2026-09-22,Jeans,Clothing,West,5,1800
+2026-09-22,Desk Lamp,Home,East,4,1200
+2026-09-23,Olive Oil,Grocery,North,2,700
+2026-09-23,Olive Oil,Grocery,West,5,700
+2026-09-23,Headphones,Electronics,West,5,2500
+2026-09-23,Jeans,Clothing,West,1,1800
+2026-09-23,T-Shirt,Clothing,North,4,600
+2026-09-23,Rice (5kg),Grocery,West,5,450
+2026-09-23,Jeans,Clothing,North,1,1800
+2026-09-24,Desk Lamp,Home,North,5,1200
+2026-09-24,Desk Lamp,Home,West,2,1200
+2026-09-24,Rice (5kg),Grocery,West,4,450
+2026-09-24,T-Shirt,Clothing,East,3,600
+2026-09-25,Desk Lamp,Home,West,3,1200
+2026-09-25,Olive Oil,Grocery,North,3,700
+2026-09-25,Rice (5kg),Grocery,West,5,450
+2026-09-25,Cushion,Home,North,3,400
+2026-09-25,Jeans,Clothing,North,5,1800
+2026-09-25,Laptop,Electronics,East,5,55000
+2026-09-25,Headphones,Electronics,North,3,2500
+2026-09-26,Rice (5kg),Grocery,West,5,450
+2026-09-26,Olive Oil,Grocery,West,4,700
+2026-09-26,Jeans,Clothing,South,5,1800
+2026-09-26,Olive Oil,Grocery,South,4,700
+2026-09-27,Rice (5kg),Grocery,West,3,450
+2026-09-27,T-Shirt,Clothing,South,2,600
+2026-09-27,Laptop,Electronics,South,1,55000
+2026-09-27,Olive Oil,Grocery,West,4,700
+2026-09-28,Headphones,Electronics,West,4,2500
+2026-09-28,Cushion,Home,West,5,400
+2026-09-28,Olive Oil,Grocery,West,4,700
+2026-09-28,Rice (5kg),Grocery,West,4,450
+2026-09-29,T-Shirt,Clothing,North,4,600
+2026-09-29,Rice (5kg),Grocery,East,2,450
+2026-09-29,Rice (5kg),Grocery,East,5,450
+2026-09-29,Headphones,Electronics,West,1,2500
+2026-09-29,Olive Oil,Grocery,West,1,700
+2026-09-30,Headphones,Electronics,East,5,2500
+2026-09-30,Rice (5kg),Grocery,North,1,450
+2026-09-30,T-Shirt,Clothing,East,1,600
+2026-09-30,Olive Oil,Grocery,North,3,700
+2026-09-30,Rice (5kg),Grocery,West,5,450
+2026-09-30,Rice (5kg),Grocery,West,3,450
+2026-09-30,Jeans,Clothing,East,3,1800
+2026-09-30,T-Shirt,Clothing,East,5,600
+2026-10-01,Desk Lamp,Home,North,5,1200
+2026-10-01,Olive Oil,Grocery,South,7,700
+2026-10-01,Rice (5kg),Grocery,North,5,450
+2026-10-01,T-Shirt,Clothing,South,3,600
+2026-10-01,Rice (5kg),Grocery,East,5,450
+2026-10-01,T-Shirt,Clothing,East,5,600
+2026-10-01,Cushion,Home,North,3,400
+2026-10-01,Rice (5kg),Grocery,South,7,450
+2026-10-02,Rice (5kg),Grocery,East,4,450
+2026-10-02,Desk Lamp,Home,West,4,1200
+2026-10-02,T-Shirt,Clothing,North,7,600
+2026-10-02,Jeans,Clothing,South,3,1800
+2026-10-02,Rice (5kg),Grocery,West,4,450
+2026-10-02,Desk Lamp,Home,West,6,1200
+2026-10-02,T-Shirt,Clothing,South,6,600
+2026-10-02,T-Shirt,Clothing,North,5,600
+2026-10-03,T-Shirt,Clothing,North,3,600
+2026-10-03,T-Shirt,Clothing,West,6,600
+2026-10-03,Jeans,Clothing,South,7,1800
+2026-10-03,Jeans,Clothing,West,6,1800
+2026-10-03,T-Shirt,Clothing,West,7,600
+2026-10-03,Laptop,Electronics,West,6,55000
+2026-10-03,Olive Oil,Grocery,North,7,700
+2026-10-03,Headphones,Electronics,East,7,2500
+2026-10-04,Olive Oil,Grocery,East,5,700
+2026-10-04,T-Shirt,Clothing,East,3,600
+2026-10-04,Olive Oil,Grocery,West,6,700
+2026-10-04,Desk Lamp,Home,South,4,1200
+2026-10-04,Rice (5kg),Grocery,East,4,450
+2026-10-04,Rice (5kg),Grocery,North,3,450
+2026-10-05,Rice (5kg),Grocery,North,7,450
+2026-10-05,Olive Oil,Grocery,South,5,700
+2026-10-05,Olive Oil,Grocery,South,5,700
+2026-10-06,Headphones,Electronics,North,3,2500
+2026-10-06,Cushion,Home,North,4,400
+2026-10-06,Olive Oil,Grocery,North,3,700
+2026-10-07,T-Shirt,Clothing,South,7,600
+2026-10-07,Cushion,Home,East,4,400
+2026-10-07,Jeans,Clothing,West,3,1800
+2026-10-07,Cushion,Home,West,5,400
+2026-10-07,Olive Oil,Grocery,East,5,700
+2026-10-07,T-Shirt,Clothing,East,3,600
+2026-10-07,Desk Lamp,Home,West,6,1200
+2026-10-08,Cushion,Home,East,5,400
+2026-10-08,T-Shirt,Clothing,West,3,600
+2026-10-08,Cushion,Home,West,4,400
+2026-10-08,T-Shirt,Clothing,North,6,600
+2026-10-08,T-Shirt,Clothing,South,6,600
+2026-10-09,Olive Oil,Grocery,East,6,700
+2026-10-09,Headphones,Electronics,North,3,2500
+2026-10-09,Rice (5kg),Grocery,West,5,450
+2026-10-09,Headphones,Electronics,South,6,2500
+2026-10-09,Olive Oil,Grocery,North,3,700
+2026-10-09,Olive Oil,Grocery,South,5,700
+2026-10-09,Olive Oil,Grocery,North,6,700
+2026-10-10,Olive Oil,Grocery,West,6,700
+2026-10-10,Rice (5kg),Grocery,South,3,450
+2026-10-10,Laptop,Electronics,North,6,55000
+2026-10-10,Rice (5kg),Grocery,East,5,450
+2026-10-10,Olive Oil,Grocery,North,6,700
+2026-10-10,Olive Oil,Grocery,East,3,700
+2026-10-10,Rice (5kg),Grocery,North,5,450
+2026-10-11,Desk Lamp,Home,South,5,1200
+2026-10-11,T-Shirt,Clothing,West,3,600
+2026-10-11,Olive Oil,Grocery,West,5,700
+2026-10-11,Cushion,Home,West,5,400
+2026-10-11,Headphones,Electronics,South,6,2500
+2026-10-11,T-Shirt,Clothing,North,4,600
+2026-10-12,Cushion,Home,West,4,400
+2026-10-12,Jeans,Clothing,East,7,1800
+2026-10-12,Rice (5kg),Grocery,North,6,450
+2026-10-12,Headphones,Electronics,East,3,2500
+2026-10-12,Desk Lamp,Home,West,3,1200
+2026-10-12,Headphones,Electronics,West,7,2500
+2026-10-12,Cushion,Home,South,7,400
+2026-10-12,Olive Oil,Grocery,North,4,700
+2026-10-13,Olive Oil,Grocery,North,6,700
+2026-10-13,Rice (5kg),Grocery,North,7,450
+2026-10-13,T-Shirt,Clothing,North,4,600
+2026-10-14,Olive Oil,Grocery,North,5,700
+2026-10-14,Rice (5kg),Grocery,North,4,450
+2026-10-14,Desk Lamp,Home,North,3,1200
+2026-10-14,Rice (5kg),Grocery,South,7,450
+2026-10-15,Desk Lamp,Home,East,6,1200
+2026-10-15,Desk Lamp,Home,East,6,1200
+2026-10-15,T-Shirt,Clothing,South,7,600
+2026-10-16,Desk Lamp,Home,North,4,1200
+2026-10-16,Rice (5kg),Grocery,North,5,450
+2026-10-16,T-Shirt,Clothing,West,4,600
+2026-10-16,T-Shirt,Clothing,South,5,600
+2026-10-16,Rice (5kg),Grocery,North,7,450
+2026-10-17,Headphones,Electronics,West,7,2500
+2026-10-17,Desk Lamp,Home,West,3,1200
+2026-10-17,Headphones,Electronics,South,3,2500
+2026-10-17,Cushion,Home,East,7,400
+2026-10-18,Olive Oil,Grocery,South,6,700
+2026-10-18,T-Shirt,Clothing,West,5,600
+2026-10-18,Rice (5kg),Grocery,North,4,450
+2026-10-18,Rice (5kg),Grocery,North,6,450
+2026-10-18,Olive Oil,Grocery,East,5,700
+2026-10-18,Rice (5kg),Grocery,South,7,450
+2026-10-19,Headphones,Electronics,North,7,2500
+2026-10-19,Olive Oil,Grocery,South,7,700
+2026-10-19,Rice (5kg),Grocery,East,4,450
+2026-10-19,Headphones,Electronics,South,3,2500
+2026-10-20,Desk Lamp,Home,West,6,1200
+2026-10-20,T-Shirt,Clothing,North,3,600
+2026-10-20,Olive Oil,Grocery,South,5,700
+2026-10-20,Rice (5kg),Grocery,West,5,450
+2026-10-20,Headphones,Electronics,South,3,2500
+2026-10-20,T-Shirt,Clothing,West,3,600
+2026-10-20,Rice (5kg),Grocery,South,3,450
+2026-10-20,Olive Oil,Grocery,East,7,700
+2026-10-21,T-Shirt,Clothing,South,5,600
+2026-10-21,Desk Lamp,Home,South,5,1200
+2026-10-21,Headphones,Electronics,South,6,2500
+2026-10-21,Jeans,Clothing,North,4,1800
+2026-10-21,Rice (5kg),Grocery,North,6,450
+2026-10-21,Cushion,Home,South,4,400
+2026-10-22,Rice (5kg),Grocery,East,6,450
+2026-10-22,T-Shirt,Clothing,East,4,600
+2026-10-22,Cushion,Home,East,4,400
+2026-10-22,T-Shirt,Clothing,North,7,600
+2026-10-22,T-Shirt,Clothing,West,3,600
+2026-10-22,Rice (5kg),Grocery,East,4,450
+2026-10-22,T-Shirt,Clothing,South,5,600
+2026-10-23,Cushion,Home,South,4,400
+2026-10-23,Headphones,Electronics,West,7,2500
+2026-10-23,Cushion,Home,West,4,400
+2026-10-23,Desk Lamp,Home,North,5,1200
+2026-10-23,Olive Oil,Grocery,South,4,700
+2026-10-23,Jeans,Clothing,South,7,1800
+2026-10-23,Cushion,Home,South,7,400
+2026-10-23,Cushion,Home,West,3,400
+2026-10-24,Headphones,Electronics,North,6,2500
+2026-10-24,Rice (5kg),Grocery,West,6,450
+2026-10-24,Desk Lamp,Home,West,3,1200
+2026-10-25,T-Shirt,Clothing,North,7,600
+2026-10-25,Olive Oil,Grocery,South,6,700
+2026-10-25,T-Shirt,Clothing,South,5,600
+2026-10-25,Olive Oil,Grocery,North,3,700
+2026-10-25,Rice (5kg),Grocery,South,5,450
+2026-10-25,Olive Oil,Grocery,North,7,700
+2026-10-26,Rice (5kg),Grocery,West,4,450
+2026-10-26,T-Shirt,Clothing,West,5,600
+2026-10-26,Olive Oil,Grocery,North,3,700
+2026-10-26,Jeans,Clothing,North,5,1800
+2026-10-26,Jeans,Clothing,South,5,1800
+2026-10-26,Desk Lamp,Home,East,3,1200
+2026-10-27,Cushion,Home,East,7,400
+2026-10-27,Cushion,Home,West,3,400
+2026-10-27,Jeans,Clothing,North,7,1800
+2026-10-27,Jeans,Clothing,North,4,1800
+2026-10-27,Rice (5kg),Grocery,South,4,450
+2026-10-27,Cushion,Home,North,4,400
+2026-10-27,Olive Oil,Grocery,South,7,700
+2026-10-27,Desk Lamp,Home,East,4,1200
+2026-10-28,Cushion,Home,West,7,400
+2026-10-28,T-Shirt,Clothing,East,3,600
+2026-10-28,Jeans,Clothing,North,6,1800
+2026-10-28,Rice (5kg),Grocery,East,7,450
+2026-10-28,Rice (5kg),Grocery,North,5,450
+2026-10-29,Cushion,Home,North,6,400
+2026-10-29,Headphones,Electronics,East,4,2500
+2026-10-29,Cushion,Home,North,3,400
+2026-10-29,T-Shirt,Clothing,South,3,600
+2026-10-30,T-Shirt,Clothing,North,4,600
+2026-10-30,Jeans,Clothing,South,7,1800
+2026-10-30,Rice (5kg),Grocery,West,6,450
+2026-10-30,Olive Oil,Grocery,East,3,700
+2026-10-30,T-Shirt,Clothing,South,3,600
+2026-10-30,Desk Lamp,Home,East,7,1200
+2026-10-31,Rice (5kg),Grocery,West,5,450
+2026-10-31,Rice (5kg),Grocery,West,7,450
+2026-10-31,Rice (5kg),Grocery,South,7,450
+2026-10-31,Cushion,Home,South,5,400
+2026-10-31,Desk Lamp,Home,West,4,1200
+2026-10-31,Jeans,Clothing,North,5,1800
+2026-11-01,Jeans,Clothing,South,6,1800
+2026-11-01,Olive Oil,Grocery,East,4,700
+2026-11-01,T-Shirt,Clothing,South,4,600
+2026-11-01,T-Shirt,Clothing,North,3,600
+2026-11-02,Rice (5kg),Grocery,East,6,450
+2026-11-02,Jeans,Clothing,North,4,1800
+2026-11-02,Olive Oil,Grocery,South,5,700
+2026-11-02,Jeans,Clothing,South,7,1800
+2026-11-02,Rice (5kg),Grocery,North,3,450
+2026-11-03,Cushion,Home,West,4,400
+2026-11-03,Cushion,Home,North,4,400
+2026-11-03,Cushion,Home,East,7,400
+2026-11-03,Olive Oil,Grocery,West,5,700
+2026-11-03,Cushion,Home,South,7,400
+2026-11-03,Desk Lamp,Home,East,6,1200
+2026-11-04,Headphones,Electronics,North,6,2500
+2026-11-04,T-Shirt,Clothing,North,7,600
+2026-11-04,Jeans,Clothing,South,6,1800
+2026-11-04,Rice (5kg),Grocery,East,3,450
+2026-11-04,Headphones,Electronics,South,4,2500
+2026-11-04,Desk Lamp,Home,South,5,1200
+2026-11-04,Headphones,Electronics,West,7,2500
+2026-11-04,Olive Oil,Grocery,West,3,700
+2026-11-05,Rice (5kg),Grocery,North,7,450
+2026-11-05,Cushion,Home,West,5,400
+2026-11-05,T-Shirt,Clothing,East,6,600
+2026-11-05,Jeans,Clothing,East,3,1800
